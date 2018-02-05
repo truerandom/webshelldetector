@@ -1,0 +1,1515 @@
+php-webshells-master.zip * b23d1d3a86c485c2b790ac799b3a9949
+webshell-master.zip * 20558daf6672138cbb6e268a84ac658e
+hashes.txt * d41d8cd98f00b204e9800998ecf8427e
+cw.php * 6f0dce2bea2c8839b29c59fb500cc5af
+C99madShell v. 2.0 madnet edition.php * c478958ee813994853eb7bcaedaf87a8
+KAdot_Universal_Shell_v0.1.6.php * 16bf9a7c1facc20bb9e652fbe5fa1ca9
+README.md * 02d34507ab57d24a07f8a11e24b08537
+WinX Shell.php * 17ab5086aef89d4951fe9b7c7a561dda
+lifkaS.php * 5d0ea0e162cc2e73243e106c95e7e69e
+KAdot Universal Shell v0.1.6.php * 685f5d4f7f6751eaefc2695071569aab
+matamu.php * 1a95f0163b6dea771da1694de13a3d8d
+c99_madnet.php * 0e2bcce5189a5c8de2785977e83aa413
+Cyber Shell.php * 9a80c3a8db3e2c81bbac680cda989ee2
+Antichat Shell.php * 128e90b5e2df97e21e96d8e268cde7e3
+zaco.php * 74295f8f6a292afc35f22f045dfc8561
+s72 Shell v1.1 Coding.php * c2e8346a5515c81797af36e7e4a3828e
+s72_Shell_v1.1_Coding.php * 3b5970bb95b2efbb0323eada3cc7f3df
+nshell.php * 4a44d82da21438e32d4f514ab35c26b6
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.php * 6163b30600f1e80d2bb5afaa753490b6
+cybershell.php * ef8828e0bc0641a655de3932199c0527
+AK-74 Security Team Web Shell Beta Version.php * 7b4e81ba8703e7ebeca0001ed18263b3
+tryag.php * 018bc128323bda47dbe8a3534f3d0130
+ex0shell.php * 36acb08aae068116dfa99011b47ce4e5
+Moroccan Spamers Ma-EditioN By GhOsT.php * d1b7b311a7ffffebf51437d7cd97dc65
+Uploader.php * 0b53b67bb3b004a8681e1458dd1895d0
+GRP WebShell 2.0 release build 2018 (C)2006,Great.php * 7eea859c8799e895be2c75f817a72c34
+Dive_Shell_1.0_Emperor_Hacking_Team.php * 34996932c83f46feb48fd1a910171704
+MyShell.php * 9cd8c95fd47ca61f655cf2aa2d480c1f
+PH Vayv.php * 35fb37f3c806718545d97c6559abd262
+hiddens shell v1.php * c2f3327d60884561970c63ffa09439a4
+SimShell 1.0 - Simorgh Security MGZ.php * 37cb1db26b1b0161a4bf678a6b4565bd
+g00nshell-v1.3.php * b2655a9ec99d0c465c3f57c659abb47e
+aZRaiLPhp v1.0.php * 26b2d3943395682e36da06ed493a3715
+NTDaddy v1.9.php * f6262f3ad9f73b8d3e7d9ea5ec07a357
+php-reverse-shell.php * 5f8af08f753e5d318d307e75ad91c039
+myshell.php * 9cd8c95fd47ca61f655cf2aa2d480c1f
+h4ntu_shell_[powered_by_tsoi].php * 06ed0b2398f8096f1bebf092d0526137
+pHpINJ.php * d7a4b0df45d34888d5a09f745e85733f
+PHANTASMA.php * 52779a27fa377ae404761a7ce76a5da7
+pws.php * ecdc6c20f62f99fa265ec9257b7bf2ce
+Simple_PHP_backdoor_by_DK.php * 43eb84d5e3ddfc935701cde1740a0908
+Small Web Shell by ZaCo.php * b8983d3388ba2d4f73e3113ad15b3a14
+zacosmall.php * 5295ee8dc2f5fd416be442548d68f7a6
+megabor.php * 3acaa237f3d78e70230e799fa1bc5fa2
+Non-alphanumeric.php * 5ee5a5174ca7716e202a675c05a207e8
+Antichat Shell. Modified by Go0o$E.php * 9a18b844240259ad8a34b82209b574e7
+Antichat_Shell_v1.3.php * 40d0abceba125868be7f3f990f031521
+ironshell.php * 8bfa2eeb8a3ff6afc619258e39fded56
+small.php * 2c57bae30117b7f5c390c6c2b53dcf79
+backupsql.php * ab1a06ab1a1fe94e3f3b7f80eedbc12f
+simple_cmd.php * c6381412df74dbf3bcd5a2b31522b544
+b374k-mini-shell-php.php.php * 89b44581dd1760b0d7181692b28c2997
+GFS web-shell ver 3.1.7 - PRiV8.php * a77bd663f0a02ac1c14c8c82861175cd
+cpanel.php * 27d59c8914ee43ee6f057fbb17473003
+PHP Shell.php * a2f8fa4cce578fc9c06f8e674b9e63fd
+529.php * 84a20511cf4eb3791f3e70aa9c0aacde
+Web-shell (c)ShAnKaR.php * 330af9337ae51d0bac175ba7076d6299
+KA_uShell 0.1.6.php * 527cf81f9272919bf872007e21c4bdda
+dC3 Security Crew Shell PRiV.php * 433706fdc539238803fd47c4394b5109
+h4ntu shell [powered by tsoi].php * 06ed0b2398f8096f1bebf092d0526137
+CrystalShell v.1.php * 7f8f092a534010cf45fd31c434980a26
+STNC WebShell v0.8.php * f0aafe3fed7534beaebcb6eb8e5203fd
+Antichat Shell v1.3.php * 40d0abceba125868be7f3f990f031521
+SimShell_1.0_-_Simorgh_Security_MGZ.php * 85f7abadbc33982a4d4bee082334f242
+php-include-w-shell.php * 4e913f159e33867be729631a7ca46850
+.gitmodules * 8001d9bcd865b964542821b05cee6f64
+ZyklonShell.php * 3db7345ccff92af13f3ef6b3f0f5d541
+DTool Pro.php * 366ad973a3f327dfbfb915b0faaea5a6
+PHVayv.php * 205ecda66c443083403efb1e5c7f7878
+mysql_tool.php * 5fbe4d8edeb2769eda5f4add9bab901e
+dC3_Security_Crew_Shell_PRiV.php * a8b5f5b63f3293341871d8fa59e876bb
+accept_language.php * 50635cfab8b52190a732af2f18d8f7cc
+ru24_post_sh.php * 5b334d494564393f419af745dc1eeec7
+Mysql_interface_v1.0.php * 97a85ec75f57275f4102891b0e8e29fe
+rootshell.php * e147350a686e5cbe6a2cfc230d324aab
+stres.php * fc1fa6db78491a6606bbc79029d72a5f
+c99_locus7s.php * 38fd7e45f9c11a37463c3ded1c76af4c
+lamashell.php * de9abc2e38420cad729648e93dfc6687
+Macker's Private PHPShell.php * e24cbf0e294da9ac2117dc660d890bb9
+aZRaiLPhp_v1.0.php * 26b2d3943395682e36da06ed493a3715
+GFS_web-shell_ver_3.1.7_-_PRiV8.php * 33ee63a4fc19095dc35c399135e64a80
+MySQL_Web_Interface_Version_0.8.php * 36d4f34d0a22080f47bb1cb94107c60f
+Loaderz WEB Shell.php * bd05310a77ff9aa72b6cc3289e99bbd7
+Moroccan_Spamers_Ma-EditioN_By_GhOsT.php * d1b7b311a7ffffebf51437d7cd97dc65
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.php * c6eeacbe779518ea78b8f7ed5f63fc11
+PhpSpy Ver 2006.php * 3998f59252b56a7e50923b9d8e47704f
+c0derz shell [csh] v. 0.1.1 release.php * ebcd8da8e0bb3fc8092379933e5a34ab
+PH_Vayv.php * 42820c4af3660068186e41ea7ab54adf
+lolipop.php * d61fc754116b2197ea32b5bf34976a2f
+Cyber Shell (v 1.0).php * 46a18979750fa458a04343cf58faa9bd
+erne.php * f815568d52d66c1c1bef79cdcd83096f
+NGH.php * cc6e570a7500dcbd78629c51efd5119c
+Sincap 1.0.php * b68b90ff6012a103e57d141ed38a7ee9
+Predator.php * 9a71dafe76c34fc36b0d8c8bbdf7165e
+Ayyildiz Tim  -AYT- Shell v 2.1 Biz.php * 184901d7b9a409f76f7647167e07abe5
+kral.php * 0abf62d945881c1d5bb7f7f435e83749
+php-backdoor.php * 2b5cb105c4ea9b5ebc64705b4bd86bf7
+Safe_Mode_Bypass_PHP_4.4.2_and_PHP_5.1.2.php * b872cd934f96c5d179d7715036153d64
+qsd-php-backdoor.php * e57cd978725a081e84931961969ed528
+MySQL Web Interface Version 0.8.php * 6f5357ecedaaf3c6ca5cd6040dd86971
+Dive Shell 1.0 - Emperor Hacking Team.php * 1b5102bdc41a7bc439eea8f0010310a5
+sosyete.php * ecc9f6fd91aeec4b9d7b2a7e50c8c95b
+load_shell.php * de0b7923a98c1e6a750222c2b5d5738d
+soldierofallah.php * 967cdf2c0c023b2b0bc3236b904c7a4a
+PHPRemoteView.php * d3e367f2f6bb362e21e35dacd5f48828
+lostDC.php * 576ed018a4c2b4d6bf14d443e8caba50
+safe0ver.php * d04f1cb379b1a135b268ce679cd680ce
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php * 49ad9117c96419c35987aaa7e2230f63
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.php * 089ff24d978aeff2b4b2869f0c7d38a3
+fatal.php * 945c4c598b2309f625efcad20a034336
+Rootshell.v.1.0.php * e0823dee1f9ddf471773e5232e453eef
+CasuS 1.5.php * 5e2ede2d1c4fa1fcc3cbfe0c005d7b13
+Gamma Web Shell.php * bc486c2e00b5fc3e4e783557a2441e6f
+simple-backdoor.php * f091d1b9274c881f8e41b2f96e6b9936
+simattacker.php * ca5ea9f6d07dcbbca8843e488991564f
+ftpsearch.php * c03e1a2eca4716d4e76be768e97a673d
+Worse Linux Shell.php * f00f6fc8333cc430a1a736e01f2cee32
+Mysql interface v1.0.php * 31566c70aabf203ab7166202ec197792
+NCC-Shell.php * 77970bda2a9061e9f48385ea6cca0699
+spygrup.php * 08fbb8115c612d3f6461a03b56f328eb
+go-shell.php * 5d0352dd49ecd05b05e083484924d7c7
+CmdAsp.asp.php.txt * da7e313938d2a976eb0c46318755807c
+aspydrv.php * ab3c71a3fabc647f614f98a84db78040
+robots.php * 3737a4410b36cce41e4af8ae4e486de0
+zehir4.php * ca9eb8e7c9a9c443b1bc2707d3043cc0
+indexer.asp.php.txt * 135fc50f85228691b401848caef3be9e
+reader.asp.php.txt * b598c8b662f2a1f6cc61f291fb0a6fa2
+Ajax_PHP Command Shell.php * 93d1a2e13a3368a2472043bd6331afe9
+Ajax_PHP_Command_Shell.php * d539ab335e38c268f16a1227a30ed550
+zehir4.asp.php.txt * 5b496a61363d304532bcf52ee21f5d55
+klasvayv.asp.php.txt * ed4083affc99bd75c361f6d908d5f49f
+cgitelnet.php * 916a34c220df028445a9a47aba357a72
+php-findsock-shell.php * 1486a7c27b36cd0a8a1e5d8d063c69e8
+RemExp.asp.php.txt * b69670ecdbb40012c73686cd22696eeb
+toolaspshell.php * 20c8a8cf4fd66de88fa7e8041d895448
+JspWebshell_1.2.php * a7383d7391cc9d11213a1ec1e9b1727b
+JspWebshell 1.2.php * 3f9acbd76c536c0838744845f9cf50ec
+findsock.c * d66ce4ed7875a260fc3f199a6a6f7d49
+README.md * 3fa34fd8c4ec633204b87b5b3c470d92
+other shell repository * 05e2ce47eef19ae12001069f798287ee
+license * 84dcc94da3adb52b53ae4fa38fe49e5d
+README.md * 1b0478b987d6f968e54615c762f45d38
+asp wget drag database.asp.txt * c858478eb386a0d63eb22818dc9b9e71
+MSSQL.asp * 33eee88de9ee16eee1450e712eda06ea
+system.jsp * 15ae237cf395fb24cf12bff141fb3f7c
+mysql_1.php * 959e0a3e22f472c120cec8e00e498164
+jsp wget drag database.jsp.txt * 09051bfd42c2d7267b7d35dbfb5aa304
+php wget drag database.php 2.txt * 219f87c99b1e3c73e666826f5f86bd0c
+tuo.aspx * 692a5c6f4c77912c56c69cce40b472cd
+php wget drag database.php.txt * 2feb3189d3344e70ac178f6587084014
+README.md * 18f7d8f7e61d319bfdd542b7ab3efe63
+php_create_function.php * 6f94d06435364d06b96b9c085ec4c8d2
+php_custom_spy_for_mysql.php * 543624bec87272974384c8ab77f2357a
+jsp_custom_spy_for_mysql.jsp * 7aca552c011c18f90bc947580328adea
+php_assert.php * d6e431e7a96c2f73d091cc2575d3903c
+README.md * 14a7ffd7222cd099276770cf84db3edd
+asp小马.asp * 35138b21b7cef1c2042919bb06320810
+DOC_ZIBSZXBIEG.php * 3a585fd5496913557b63de1589371888
+aspmuma.asp * 1ba7661e69cd613ce13bd72380a71aef
+README.md * fba409fed13cc44fb1974eadf95040d0
+mod_joomla_shell.PNG * beb6963a3cf7d08ffadee78d25f19044
+mod_joomla_shell.zip * 38092ab8e1b7bc8af3d35a192dcac837
+DefaceKeeper_0.2.php.txt * 713c54c3da3031bc614a8a55dccd7e7f
+wh_bindshell.py.txt * fab20902862736e24aaae275af5e049c
+smtpd.py.txt * 4390ff6c8b614a05ae53c673c2c4bd66
+cgi-python.py.txt * 0a15f473e2232b89dae1075e1afdac97
+Phyton Shell.py.txt * 92b3c897090867c65cc169ab037a0f55
+aspydrv.asp.txt * 1c01f8a88baee39aa1cebec644bbcb99
+Rader.asp.txt * ad1a362e0a24c4475335e3e891a01731
+NT Addy.asp.txt * 2e0d1bae844c9a8e6e351297d77a1fec
+Tool.asp.txt * 8febea6ca6051ae5e2ad4c78f4b9c1f2
+Server Variables.asp.txt * 47fb8a647e441488b30f92b4d39003d7
+Zehir 4.asp.txt * 7f4e12e159360743ec016273c3b9108c
+cmd-asp-5.1.asp.txt * 8baa99666bf3734cbdfdd10088e0cd9f
+klasvayv.asp.txt * 2b3e64bf8462fc3d008a3d1012da64ef
+Reader.asp.txt * ad1a362e0a24c4475335e3e891a01731
+ntdaddy.asp.txt * 2e0d1bae844c9a8e6e351297d77a1fec
+Ajan.asp.txt * b6f468252407efc2318639da22b08af0
+CmdAsp.asp.txt * 64f24f09ec6efaa904e2492dffc518b9
+kacak.asp.txt * 907d95d46785db21331a0324972dda8c
+CyberSpy5.Asp.txt * db623540849a49867f5ed8a35ade8828
+Elmali Seker.asp.txt * b32d1730d23a660fd6aa8e60c3dc549f
+RemExp.asp.txt * aa1d8491f4e2894dbdb91eec1abc2244
+CMD.asp.txt * 97af88b478422067f23b001dd06d56a9
+zehir4.asp.txt * 7f4e12e159360743ec016273c3b9108c
+indexer.asp.txt * 9ea82afb8c7070817d4cdf686abe0300
+EFSO_2.asp.txt * b5fde9682fd63415ae211d53c6bfaa4d
+elmaliseker.asp.txt * b32d1730d23a660fd6aa8e60c3dc549f
+jsp-reverse.jsp.txt * 8b0e6779f25a17f0ffb3df14122ba594
+cmdjsp.jsp.txt * b815611cc39f17f05a73444d699341d4
+JspWebshell 1.2.jsp.txt * 70a0ee2624e5bbe5525ccadc467519f6
+Java Shell.js.txt * 36403bc776eb12e8b7cc0eb47c8aac83
+jspshall.jsp.txt * efe0f6edaa512c4e1fdca4eeda77b7ee
+lurm_safemod_on.cgi.txt * 5ea4f901ce1abdf20870c214b3231db3
+WebShell.cgi.txt * bc486c2e00b5fc3e4e783557a2441e6f
+telnet.cgi.txt * dee697481383052980c20c48de1598d1
+go-shell.cgi.txt * 8ec6c59236bb9e082ce98dd6241b0033
+webadmin.php.php.txt * b268e6fa3bf3fe496cffb4ea574ec4c7
+csh.php.php.txt * 194a9d3f3eac8bc56d9a7c55c016af96
+backupsql.php.php.txt * ab1a06ab1a1fe94e3f3b7f80eedbc12f
+mailer3.php.php.txt * d1b7b311a7ffffebf51437d7cd97dc65
+a_gedit.php.php.txt * ab9c6b24ca15f4a1b7086cad78ff0f78
+phvayvv.php.php.txt * 35fb37f3c806718545d97c6559abd262
+Fatalshell.php.php.txt * b15583f4eaad10a25ef53ab451a4a26d
+php-include-w-shell.php.txt * 4e913f159e33867be729631a7ca46850
+wacking.php.php.txt * 9c5bb5e3a46ec28039e8986324e42792
+fuckphpshell.php.txt * 554e50c1265bb0934fcc8247ec3b9052
+phvayv.php.php.txt * b68b90ff6012a103e57d141ed38a7ee9
+network.php.php.txt * acdbba993a5a4186fd864c5e4ea0ba4f
+crystal.txt * fdbf54d5bf3264eb1c4bff1fac548879
+hidshell.php.php.txt * c2f3327d60884561970c63ffa09439a4
+s72 Shell v1.1 Coding.html.txt * c2e8346a5515c81797af36e7e4a3828e
+load_shell.php.php.txt * 0c5d227f4aa76785e4760cdcff78a661
+SimShell 1.0 - Simorgh Security MGZ.php.txt * 37cb1db26b1b0161a4bf678a6b4565bd
+Crystal.php.txt * fdbf54d5bf3264eb1c4bff1fac548879
+framer.zip * ad69fe396be884d288ccbc5c93486fe2
+c99madshell_v2.1.php.php.txt * 3ca5886cd54d495dc95793579611f59a
+Russian.php.php.txt * 81c3a3c3099d441079382d3729161b80
+PHP Backdoor Connect.pl.php.txt * 57fcd9560dac244aeaf95fd606621900
+KA_uShell.php.php.txt * 527cf81f9272919bf872007e21c4bdda
+Rem View.php.php.txt * 29420106d9a81553ef0d1ca72b9934d9
+shell.php.php.txt * 1a95f0163b6dea771da1694de13a3d8d
+NIX REMOTE WEB-SHELL v.0.5 alpha Lite Public Version.php.txt * f3ca29b7999643507081caab926e2e74
+h4ntu shell [powered by tsoi].txt * 06ed0b2398f8096f1bebf092d0526137
+1.txt * 44542e5c3e9790815c49d5f9beffbbf2
+backup.php.php.txt * aeee3bae226ad57baf4be8745c3f6094
+pHpINJ.php.php.txt * d7a4b0df45d34888d5a09f745e85733f
+s72_shell.txt * c2e8346a5515c81797af36e7e4a3828e
+c99shell_v1.0.php.php.txt * d8ae5819a0a2349ec552cbcf3a62c975
+spy.php.php.txt * eed14de3907c9aa2550d95550d1a2d5f
+STNC.php.php.txt * 2e56cfd5b5014cbbf1c1e3f082531815
+gfs_sh.php.php.txt * f618f41f7ebeb5e5076986a66593afd1
+WinX Shell.html.txt * 17ab5086aef89d4951fe9b7c7a561dda
+shankar.php.php.txt * 6eb9db6a3974e511b7951b8f7e7136bb
+DTool Pro.php.txt * 366ad973a3f327dfbfb915b0faaea5a6
+NetworkFileManagerPHP.php.txt * acdbba993a5a4186fd864c5e4ea0ba4f
+nst.php.php.txt * ddaf9f1986d17284de83a17fe5f9fd94
+iMHaPFtp.php.php.txt * 12911b73bc6a5d313b494102abcf5c57
+phpjackal.php.txt * ab230817bcc99acb9bdc0ec6d264d76f
+c2007.php.php.txt * d089e7168373a0634e1ac18c0ee00085
+ru24_post_sh.php.php.txt * 5b334d494564393f419af745dc1eeec7
+PH Vayv.php.php.txt * 35fb37f3c806718545d97c6559abd262
+Mysql interface v1.0.php.txt * a12fc0a3d31e2f89727b9678148cd487
+c100.php.txt * 38fd7e45f9c11a37463c3ded1c76af4c
+Antichat Shell v1.3.php.txt * 40d0abceba125868be7f3f990f031521
+cybershell.php.php.txt * ef8828e0bc0641a655de3932199c0527
+myshell.php.php.txt * 62783d1db52d05b1b6ae2403a7044490
+r57shell.php.php.txt * d28445de424594a5f14d0fe2a7c4e94f
+img.php.php.txt * 17a07bb84e137b8aa60f87cd6bfab748
+r57.php.php.txt * eddf7a8fde1e50a7f2a817ef7cece24f
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.php.txt * c6eeacbe779518ea78b8f7ed5f63fc11
+lamashell.php.txt * de9abc2e38420cad729648e93dfc6687
+s.php.php.txt * 817671e1bdc85e04cc3440bbd9288800
+Sincap.php.php.txt * b68b90ff6012a103e57d141ed38a7ee9
+c99php.txt * 9e9ae0332ada9c3797d6cee92c2ede62
+sniper_sa_shell.txt * 911195a9b7c010f61b66439d9048f400
+small.php.php.txt * fcee6226d09d150bfa5f103bee61fbde
+rst_sql.php.php.txt * 0961641a4ab2b8cb4d2beca593a92010
+matamu.php.txt * 1a95f0163b6dea771da1694de13a3d8d
+Antichat Socks5 Server.php.php.txt * cbe9eafbc4d86842a61a54d98e5b61f1
+PHPRemoteView.php.txt * 29420106d9a81553ef0d1ca72b9934d9
+c99madshell_v2.0.php.php.txt * d27292895da9afa5b60b9d3014f39294
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.php.txt * 6163b30600f1e80d2bb5afaa753490b6
+Test.php.php.txt * 77e331abd03b6915c6c6c7fe999fcb50
+xinfo.php.php.txt * 2601b6fc1579f263d2f3960ce775df70
+SnIpEr_SA Shell.php.txt * 911195a9b7c010f61b66439d9048f400
+nshell.php.php.txt * 4a44d82da21438e32d4f514ab35c26b6
+mysql_shell.php.txt * d42aec2891214cace99b3eb9f3e21a63
+sh.php.php.txt * 330af9337ae51d0bac175ba7076d6299
+Ayyildiz Tim  -AYT- Shell v 2.1 Biz.html.txt * 8a8c8bb153bd1ee097559041f2e5cf0a
+Moroccan Spamers Ma-EditioN By GhOsT.php.txt * d1b7b311a7ffffebf51437d7cd97dc65
+rootshell.php.txt * 265f3319075536030e59ba2f9ef3eac6
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.php.txt * 089ff24d978aeff2b4b2869f0c7d38a3
+antichat.php.php.txt * 128e90b5e2df97e21e96d8e268cde7e3
+GFS web-shell ver 3.1.7 - PRiV8.php.txt * be0f67f3e995517d18859ed57b4b4389
+wso.txt * 33e2891c13b78328da9062fbfcf898b6
+pws.php.php.txt * ecdc6c20f62f99fa265ec9257b7bf2ce
+simple-backdoor.php.txt * f091d1b9274c881f8e41b2f96e6b9936
+Ajax_PHP Command Shell.php.txt * 93d1a2e13a3368a2472043bd6331afe9
+aZRaiLPhp v1.0.php.txt * 26b2d3943395682e36da06ed493a3715
+mysql_tool.php.php.txt * 5fbe4d8edeb2769eda5f4add9bab901e
+ngh.php.php.txt * c372b725419cdfd3f8a6371cfeebc2fd
+Dive Shell 1.0 - Emperor Hacking Team.php.txt * 1b5102bdc41a7bc439eea8f0010310a5
+Private-i3lue.php.txt * 13f5c7a035ecce5f9f380967cf9d4e92
+cyberlords_sql.php.php.txt * 03b06b4183cb9947ccda2c3d636406d4
+PHP Shell.php.php.txt * a2f8fa4cce578fc9c06f8e674b9e63fd
+simple_cmd.html.txt * c6381412df74dbf3bcd5a2b31522b544
+backdoor1.php.txt * e1adda1f866367f52de001257b4d6c98
+r577.php.php.txt * 0714f80f35c1fddef1f8938b8d42a4c8
+nfm.php.php.txt * 401fbae5f10283051c39e640b77e4c26
+ctt_sh.php.php.txt * 671cad517edd254352fe7e0c7c981c39
+ironshell.php.txt * 8bfa2eeb8a3ff6afc619258e39fded56
+Nshell (1).php.php.txt * 973fc89694097a41e684b43a21b1b099
+nixrem.php.php.txt * 40a3e86a63d3d7f063a86aab5b5f92c6
+w3d.php.php.txt * 987f66b29bfb209a0b4f097f84f57c3b
+r57 Shell.php.php.txt * 8023394542cddf8aee5dec6072ed02b5
+Worse Linux Shell.php.txt * 8338c8d9eab10bd38a7116eb534b5fa2
+KAdot Universal Shell v0.1.6.html.txt * 527cf81f9272919bf872007e21c4bdda
+nstview.php.php.txt * 4745d510fed4378e4b1730f56f25e569
+LOTFREE.php.php.txt * 0fdb401a49fc2e481e3dfd697078334b
+w.php.php.txt * 38a3f9f2aa47c2e940695f3dba6a7bb2
+ak74shell.php.php.txt * 7f83adcb4c1111653d30c6427a94f66f
+Dx.php.php.txt * 9cfe372d49fe8bf2fac8e1c534153d9b
+backdoorfr.php.txt * 91e4afc7444ed258640e85bcaf0fecfc
+2008.php.php.txt * 3e4ba470d4c38765e4b16ed930facf2c
+phpbackdoor15.php.txt * 0fdb401a49fc2e481e3dfd697078334b
+zacosmall.php.txt * 5295ee8dc2f5fd416be442548d68f7a6
+mysql.php.php.txt * 12bbdf6ef403720442a47a3cc730d034
+MySQL Web Interface Version 0.8.php.txt * 36d4f34d0a22080f47bb1cb94107c60f
+Casus15.php.php.txt * 5e2ede2d1c4fa1fcc3cbfe0c005d7b13
+w4k.php.php.txt * 9c5bb5e3a46ec28039e8986324e42792
+dC3 Security Crew Shell PRiV.php.txt * 433706fdc539238803fd47c4394b5109
+phpshell17.php.txt * 9a928d741d12ea08a624ee9ed5a8c39d
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php.txt * 49ad9117c96419c35987aaa7e2230f63
+predator.php.php.txt * 7101fe72421402029e2629f3aaed6de7
+uploader.php.php.txt * 0b53b67bb3b004a8681e1458dd1895d0
+webshell.php.txt * e425241b928e992bde43dd65180a4894
+php-backdoor.php.txt * 2b5cb105c4ea9b5ebc64705b4bd86bf7
+SsEs.php.php.txt * 6cd50a14ea0da0df6a246a60c8f6f9c9
+SpecialShell_99.php.php.txt * 09609851caa129e40b0d56e90dfc476c
+PHANTASMA.php.txt * 52779a27fa377ae404761a7ce76a5da7
+accept_language.php.txt * 50635cfab8b52190a732af2f18d8f7cc
+sql.php.php.txt * 8334249cbb969f2d33d678fec2b680c5
+DxShell.php.php.txt * 33a2b31810178f4c2e71fbdeb4899244
+telnetd.pl.txt * 5f61136afd17eb025109304bd8d6d414
+telnet.pl.txt * dd9dba14383064e219e29396e242c1ec
+perlbot.pl.txt * 7e4deb9884ffffa5d82c22f8dc533a45
+shellbot.pl.txt * b2a883bc3c03a35cfd020dd2ace4bab8
+connectback2.pl.txt * 473b7d226ea6ebaacc24504bd740822e
+Asmodeus v0.1.pl.txt * 0978b672db0657103c79505df69cb4bb
+aspydrv.asp.txt * 129e59e9c062a27848d10e6d064e272f
+Inderxer.asp * 9ea82afb8c7070817d4cdf686abe0300
+ajn.asp * aaafafc5d286f0bff827a931f6378d04
+RemExp.asp * e85eb600863e16826c41d884ce4f5a70
+test.asp.txt * b1fc375d299d3eabd745928b65f9d358
+DarkBlade1.5.asp * 5058bb202af3295ac4cf3ae85b0d94af
+Rader.asp * ad1a362e0a24c4475335e3e891a01731
+hididi.net.txt * f261aa86b356946a6fc259d0a8839d5c
+nonoseed0121.asp.txt * 1aba51a846a64eefe8bcb4daf8e3894f
+luoss.asp.txt * 2ad75f6d98894060e83a2b1e25cb2c2f
+bypass_safedog_02.asp * e786b360d96276ac5db4249a7f8a577e
+ASPXspy2.aspx * cfe3ac9b4114390af0102622f7373c4b
+shell.asp * e63f5a96570e1faf4c7b8ca6df750237
+xslt.asp * ca64f4b452679b4666008106c34d023c
+Server Variables.asp * e85eb600863e16826c41d884ce4f5a70
+klasvayv.asp * e85eb600863e16826c41d884ce4f5a70
+Ajan.asp * b6f468252407efc2318639da22b08af0
+cpanel.asp * e85eb600863e16826c41d884ce4f5a70
+cmd.asp.txt * d9c964290edd89cf4a9bbd0edb943990
+bypass_safedog_01.asp * 84824132efc34d8442d0def886a9fb29
+bypass-waf.asp * ab308cb181244237fdb9768dd33af3af
+bypass_safedog_03.asp * fe406710e29eeb6f4825cb0c42c57335
+lpl38-com-redhat.asp.txt * 72cb5ef226834ed791144abaa0acdfd4
+base.asp * cbf03d380d7d6a0f8192020d2aa4e95f
+killdoor.txt * ba67bf0ed4e1627eb498e5bad30bcff3
+1d.asp * fad7504ca8a55d4453e552621f81563c
+CyberSpy5.Asp * fc1fd3b425a779a5e72722daff765b27
+404.asp * d9fa1e8513dbf59fa5d130f389032a2d
+bypass-iisuser-p.asp * 924d294400a64fa888a79316fb3ccd90
+ice.asp * d141e011a92f48da72728c35f1934a2b
+grasp.asp * 57289a7b96c173233ea235fdd0726ace
+EFSO_2.asp * a341270f9ebd01320a7490c12cb2e64c
+2013110125027897.asp * d3584159ab299d546bd77c9654932ae3
+mumaasp.com.asp * cce32b2e18f5357c85b6d20f564ebd5d
+good_1.asp * fd0c49b42d2f155cc34efddfdb1c2cca
+con2.asp * d3584159ab299d546bd77c9654932ae3
+xx.asp * e85eb600863e16826c41d884ce4f5a70
+webshell.asp * 28ae2f175766ecb09b7b4214269c6c79
+shell.asp * fe0c5bbe9cb3333f671b7ef02d883b4a
+readme.md * 5afc4533f82b8a3c700f0afe7bb0c70b
+shell_decoded.asp * f2d2694eab72bfc59b7d714a81b2f4c8
+radhat.asp * 72cb5ef226834ed791144abaa0acdfd4
+readme.txt * 69ae6aa84590e269052207c6ef92ec00
+README.md * 875c5d11e323a94923f3ad14db776f73
+cmd.c * 0ce579c8eb41cebfe63c0f087d9a4049
+cmd.cfm * 90377d911a3bc87887f313a62c08ab19
+cfSQL.cfm * 95cbfc47793dbd5c41f1caaa6b3fba75
+cfExec.cfm * 1ee6bbdebaba019580a85e59f91e0675
+list.pl * 9f564131fe0b3b4f4bbd5a8b61297034
+perlcmd.cgi * 97ae7222d7f13e908c6d7f563cb1e72b
+cmd.pl * b2b4e5f7554c9876df20af0fb7444d08
+up.pl * f03e1f5a20b05500e74a68f6e5062e91
+ntdaddy.asp * c5e6baa5d140f73b4e16a6cfde671c68
+list.asp * 1cfa493a165eb4b43e6d4cc0f2eab575
+cmdasp.aspx * 5e83b6ed422399de04408b80f3e5470e
+cmd.aspx * 19afd572720b56cada666600945a4b75
+up.asp * f775e721cfe85019fe41c34f47c0d67c
+cmd.asp * 895ca846858c315a3ff8daa7c55b3119
+list.txt * 1cfa493a165eb4b43e6d4cc0f2eab575
+cmd-asp-5.1.asp * 8baa99666bf3734cbdfdd10088e0cd9f
+cmdasp.asp * 57b51418a799d2d016be546f399c2e9b
+CmdServlet.java * ca3d1538547476135882d1446bfd954d
+UpServlet.java * 49438b852f5b2e1cf2d1b4b46cdb282e
+ListServlet.java * 8cdd30382713529e3287871f38e1861d
+up.sh * 4e7daef57ae0a767c8d2e15d845a8d19
+list.sh * 5771aa120c6d314f347feae4241616eb
+cmd.sh * 3ae5c0df376db5ca805594b228905b94
+cmdjsp.jsp * b815611cc39f17f05a73444d699341d4
+jsp-reverse.jsp * 8b0e6779f25a17f0ffb3df14122ba594
+cmd.jsp * 5391c4a8af1ede757ba9d28865e75853
+browser.jsp * 37603e44ee6dc1c359feb68a0d566f76
+list.jsp * 1ea290ff4259dcaeb680cec992738eda
+ListServlet.class * ff0d49ae1877145a2c2e3d5b9ba9dea4
+CmdServlet.java * ca3d1538547476135882d1446bfd954d
+UpServlet.class * 0e41b62b6dfcc8fe871ca0a71c2ffe0f
+UpServlet.java * 49438b852f5b2e1cf2d1b4b46cdb282e
+CmdServlet.class * aee2c364c215e866f0dd7f9072e2cf0f
+ListServlet.java * 8cdd30382713529e3287871f38e1861d
+up.jsp * 515a5dd86fe48f673b72422cccf5a585
+up_win32.jsp * 1ac6a131cbf04c079d489f04868f1783
+cmd_win32.jsp * cc4d4d6cc9a25984aa9a7583c7def174
+list.php * 922b128ddd90e1dc2f73088956c548ed
+cmd.php * c38ae5ba61fd84f6bbbab98d89d8a346
+up.php * 7edefb8bd0876c41906f4b39b52cd0ef
+php-backdoor.php * 2b5cb105c4ea9b5ebc64705b4bd86bf7
+simple-backdoor.php * f091d1b9274c881f8e41b2f96e6b9936
+README.md * 73495d03a1714e29237e572b3c427454
+PHP.7z * 93bf2e79a891abe12f3c4911e08ba6c3
+aspydrv.asp * de0a58f7d1e200d0b2c801a94ebce330
+RemExp.asp * aa1d8491f4e2894dbdb91eec1abc2244
+ntdaddy.asp * c5e6baa5d140f73b4e16a6cfde671c68
+list.asp * 1cfa493a165eb4b43e6d4cc0f2eab575
+aspSH.v1.txt * d39e8a13a13550704f58756be7e276f1
+ASpy.txt * 1c9a0f1529ddca43d91eb9b16c6aa6a4
+cmd.aspx * 19afd572720b56cada666600945a4b75
+filesystembrowser.aspx * 43a1f7827d0a32ddbbc07b98f185487f
+Server Variables.asp * 47fb8a647e441488b30f92b4d39003d7
+up.asp * f775e721cfe85019fe41c34f47c0d67c
+zehir4.txt * 573c477e14f987335328ca9db445fd3c
+EFSO.txt * 941f9129d9d55398c94d04f51d1dcea4
+ELMALISEKER Backd00r.asp * 3aa403e0a42badb2c23d4a54ef43e2f4
+elmaliseker.asp * b32d1730d23a660fd6aa8e60c3dc549f
+NTDaddy.v1.9.txt * 2e0d1bae844c9a8e6e351297d77a1fec
+RHTools.v1.5-BETA.txt * 8febea6ca6051ae5e2ad4c78f4b9c1f2
+cmd.asp * 97af88b478422067f23b001dd06d56a9
+aspxshell.aspx.txt * 8cd33d275d13d00eeaf3a3e88489a8fe
+toolaspshell.txt * 922a4669710753300517a5ad88e4d78c
+tool.asp * 4ab68d38527d5834e9c1ff64407b34fb
+aspxSH.txt * 2307ab10e5f0139c3ed6e0369c836506
+cmdexec.aspx * 175ea7afda37bf5c6113b2f108dc009b
+aspydrv.txt * bd51742fa9b3ff1e6236d97e423eb6d0
+zehir.txt * 7f4e12e159360743ec016273c3b9108c
+spexec.aspx * c284b6dd592ae8124f634a4bda4fe501
+3fexe.txt * 233521acd3ff5e16f8eb48a056370d12
+sql.aspx * 9a2cb993b34e9229fdc8f8cc1601e81c
+zehir4.asp * 7f4e12e159360743ec016273c3b9108c
+zehir.asp * 0061d800aee63ccaf41d2d62ec15985d
+fileupload.aspx * 394db338e2248f6c31682e76f882fd74
+list.pl * 9f564131fe0b3b4f4bbd5a8b61297034
+dc.pl * d9c437ffdb3b52b1e0bb8de4b88d32b1
+Perl Web Shell by RST-GHC.pl * 72066ebafdf76d14fcb0c198bbda021c
+cmd.pl * b2b4e5f7554c9876df20af0fb7444d08
+up.pl * f03e1f5a20b05500e74a68f6e5062e91
+cgitelnet.txt * 49a31c14ded9141e619c56bb30d00771
+jspbd.jsp * 7d5e9732766cf5b8edca9b7ae2b6028f
+up_win32.jsp * 1ac6a131cbf04c079d489f04868f1783
+cmd.jsp * 5391c4a8af1ede757ba9d28865e75853
+JspWebshell 1.2.jsp * 70a0ee2624e5bbe5525ccadc467519f6
+browser.jsp * 37603e44ee6dc1c359feb68a0d566f76
+list.jsp * 1ea290ff4259dcaeb680cec992738eda
+jspShell.jsp * 0d5b5a17552254be6c1c8f1eb3a5fdc1
+cmd_win32.jsp * cc4d4d6cc9a25984aa9a7583c7def174
+up.jsp * 515a5dd86fe48f673b72422cccf5a585
+c99ud.txt * e0d3b34fbe71a77133951e0f0ff1de4b
+ironshell.txt * 8bfa2eeb8a3ff6afc619258e39fded56
+sniper.txt * c4e7be43cd1e162534a3a12ee65a7a41
+redcod.php * 5c1c8120d82f46ff9d813fbe3354bac5
+WinX Shell.php * 17ab5086aef89d4951fe9b7c7a561dda
+dC3.Security.Crew.Shell.priv8.txt * 433706fdc539238803fd47c4394b5109
+mysql_tool.txt * 5fbe4d8edeb2769eda5f4add9bab901e
+c99_w4cking.txt * 9c34adbc8fd8d908cbb341734830f971
+Private-i3lue.php * 13f5c7a035ecce5f9f380967cf9d4e92
+g00nv13.php * 35ad2533192fe8a1a76c3276140db820
+KAdot Universal Shell v0.1.6.php * 527cf81f9272919bf872007e21c4bdda
+Ayyildiz Tim  -AYT- Shell v 2.1 Biz.txt * 8a8c8bb153bd1ee097559041f2e5cf0a
+c99.php * 157b4ac3c7ba3a36e546e81e9279eab5
+Crystal.txt * fdbf54d5bf3264eb1c4bff1fac548879
+stres.txt * d06b5260e12852c9145b4c65c999be48
+Dx.txt * 9cfe372d49fe8bf2fac8e1c534153d9b
+b37.php * 0421445303cfd0ec6bc20b3846e30ff0
+itsecteam.v2.1.txt * bd6d3b2763c705a01cc2b3f105a25fa4
+s72 Shell v1.1 Coding.php * c2e8346a5515c81797af36e7e4a3828e
+p0isoN.sh3ll.txt * 9b1b99b8cca95ec55d7672766f9d8342
+Sst-Sheller.php * d93c62a0a042252f7531d8632511ca56
+DxShell.1.0.txt * 3af551ffd0bbb1e8c2c3074d66a89d4b
+SimShell 1.0 - Simorgh Security MGZ.txt * 37cb1db26b1b0161a4bf678a6b4565bd
+r57_iFX.txt * 513b7be8bd0595c377283a7c87b44b2e
+pws.txt * ecdc6c20f62f99fa265ec9257b7bf2ce
+nshell.txt * 4a44d82da21438e32d4f514ab35c26b6
+phpshell.php * f8a6d5306fb37414c5c772315a27832f
+lolipop.txt * 0c936fc3c27e36bc8171fcc0f391465e
+simple_cmd.txt * c6381412df74dbf3bcd5a2b31522b544
+jHn.php * 40c6ecf77253e805ace85f119fe1cebb
+PHPJackal.txt * 58ad3c32c9f26f32f6641406539a4d7c
+c99.txt * f8129ecde6bdd4232d2fac2dcc11dd19
+c99_locus7s.txt * 38fd7e45f9c11a37463c3ded1c76af4c
+CrystalShell v.1.txt * ae09fca1a0b6947d6c9b250cad3e8e20
+safe0ver.txt * f640721cf16cec31ee9627711cb7f193
+soldierofallah.txt * 87556973baf264507586a60f226bede1
+ru24_post_sh.txt * 5b334d494564393f419af745dc1eeec7
+h4ntu shell [powered by tsoi].txt * 06ed0b2398f8096f1bebf092d0526137
+r57.php * 41af6fd253648885c7ad2ed524e0692d
+sosyete.txt * ab482d980065234ab3f36ae6caf0ee63
+cybershell.txt * ef8828e0bc0641a655de3932199c0527
+c993.txt * 9acba5eb2152ed9e84ac1bce3ba413e8
+iskorpitx.txt * 392d49128747c609c565e22fd3d38c4f
+simattacker.txt * f2634d19a7226f5fe4bae10321b74cda
+cbfphpsh.txt * f5d720e84625c58ef477954742ab606d
+GNY.Shell.v1.1.txt * ca8f65cfd4101cbf978ad615ffc75c0e
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.txt * 49ad9117c96419c35987aaa7e2230f63
+SnIpEr_SA Shell.txt * 911195a9b7c010f61b66439d9048f400
+r57shell1.40.txt * 56ed55c6a3411c93695abebbeee3db52
+PHANTASMA.txt * 52779a27fa377ae404761a7ce76a5da7
+SimShell 1.0 - Simorgh Security MGZ.php * 37cb1db26b1b0161a4bf678a6b4565bd
+aZRaiLPhp v1.0.txt * 26b2d3943395682e36da06ed493a3715
+aZRaiLPhp v1.0.php * 26b2d3943395682e36da06ed493a3715
+c99shell.php * 048ccc01b873b40d57ce25a4c56ea717
+small.txt * cf1f90e41ccc0527a58858f7a758b018
+KAdot Universal Shell v0.1.6.txt * 527cf81f9272919bf872007e21c4bdda
+c99madshell.php * 9e4b767e9c70b275f7e57e4314862883
+iMHaPFtp.txt * 12911b73bc6a5d313b494102abcf5c57
+NIX REMOTE WEB-SHELL v.0.5 alpha Lite Public Version.txt * f3ca29b7999643507081caab926e2e74
+bypass.txt * 873a04ad80625d59f6cd8be832399172
+log.txt * d48794f15b8fd603a42ea328838c578a
+bug.php * 91c5fae02ab16d51fc5af9354ac2f015
+c99-shadows-mod.php * 68c0629d08b1664f5bcce7d7f5f71d22
+c99_PSych0.php * cf37833c6c6e603e1d3be1a9056a1ebf
+sql.php * 2cf20a207695bbc2311a998d1d795c35
+PHPRemoteView.txt * 2de207f3b169d27a8931e11413f557d5
+list.php * 922b128ddd90e1dc2f73088956c548ed
+Ani-Shell.php * 889bfc9fbb8ee7832044fc575324d01a
+Rootshell.v.1.0.txt * e0823dee1f9ddf471773e5232e453eef
+c99-bd.txt * 710551096841236b27a9ebc0eac97acf
+WinX Shell.txt * 17ab5086aef89d4951fe9b7c7a561dda
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.txt * 6163b30600f1e80d2bb5afaa753490b6
+newsh.php * 0d2c2c151ed839e6bafc7aa9c69be715
+Ajax_PHP Command Shell.txt.1 * 93d1a2e13a3368a2472043bd6331afe9
+itsecteam_shell.php * bd6d3b2763c705a01cc2b3f105a25fa4
+egy.txt * fb034b6772f8388507144a65216954e1
+ex0shell.txt * bc0bfacdb74b5f8756cda6653a6c1fdc
+PHPSPY.php * 0712e3dc262b4e1f98ed25760b206836
+Php_Backdoor.txt * df9faa6f9320551ccb953c0f9565bec2
+c99_2.txt * 61a92ce63369e2fa4919ef0ff7c51167
+kral.txt * 0abf62d945881c1d5bb7f7f435e83749
+Worse Linux Shell.txt * 8338c8d9eab10bd38a7116eb534b5fa2
+ugdevil.v2.0.txt * 260cd66c6a595d1147286a51ddf5c899
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.txt * 089ff24d978aeff2b4b2869f0c7d38a3
+2mv2.txt * 82dca1baa018625681f4d303f0fcbf30
+c100 v. 777shell v. Undetectable #18a Modded by 777 - Don.php * 27786d1e0b1046a1a7f67ee41c64bf4c
+g00nshell-v1.3.txt * b2655a9ec99d0c465c3f57c659abb47e
+Dive Shell 1.0 - Emperor Hacking Team.txt * 1b5102bdc41a7bc439eea8f0010310a5
+lostDC.txt * 576ed018a4c2b4d6bf14d443e8caba50
+arabicspy.php * e0202adff532b28ef1ba206cf95962f2
+r57_kartal.txt * 1d912c55b96e2efe8ca873d6040e3b30
+cmd.php * c38ae5ba61fd84f6bbbab98d89d8a346
+backupsql.txt * ab1a06ab1a1fe94e3f3b7f80eedbc12f
+c99_madnet.txt * 0e2bcce5189a5c8de2785977e83aa413
+mysql.txt * a64682f3395503db02f0428b74661a76
+h4ntu shell [powered by tsoi].php * 06ed0b2398f8096f1bebf092d0526137
+rootshell.txt * 5108141d610acccb15217a083e5699ce
+RedhatC99 [login=redhat-pass=root] * 7d3a0fd7a5e8a5e5e23c632a9a857ec5
+Antichat Shell v1.3.php * 40d0abceba125868be7f3f990f031521
+ctt_sh.txt * 671cad517edd254352fe7e0c7c981c39
+lamashell.txt * de9abc2e38420cad729648e93dfc6687
+cpanel.txt * 45b9f42b3fa2c7c41b0add04c6d99d97
+NetworkFileManagerPHP.txt * acdbba993a5a4186fd864c5e4ea0ba4f
+Ajax_PHP Command Shell.txt * 93d1a2e13a3368a2472043bd6331afe9
+nstview.txt * 4745d510fed4378e4b1730f56f25e569
+locus.txt * f0bc3fd3c9ea05570243f85ea8ba8478
+mysqlwebsh.php * babfa76d11943a22484b3837f105fada
+priv8-2012-bypass-shell.txt * 3b6013b3e9ec147f00de99feedbc7172
+Mysql interface v1.0.txt * a12fc0a3d31e2f89727b9678148cd487
+dC3 Security Crew Shell PRiV.txt * 433706fdc539238803fd47c4394b5109
+matamu.txt * 1a95f0163b6dea771da1694de13a3d8d
+Moroccan Spamers Ma-EditioN By GhOsT.txt * d1b7b311a7ffffebf51437d7cd97dc65
+Antichat Shell v1.3.txt * 40d0abceba125868be7f3f990f031521
+r57142.php * 0911b6e6b8f4bcb05599b2885a7fe8a8
+c100.txt * f31fde37804183fd27fbd88db1af86e1
+r57.mod-bizzz.shell.txt * 0714f80f35c1fddef1f8938b8d42a4c8
+hkrkoz.php * 802f5cae46d394b297482fd0c27cb2fc
+wso.v2.5.txt * 3bcb1b32863bc4ac6a21c1becb84a202
+c99unlimited.txt * 508e180cafa35ce6111542d269ee2a68
+nst.txt * 4adda5fc1a115484d2ac8d7f42f611ac
+shellzx.txt * 4a83fb4138bd47ab3841ecd471ee5cac
+Macker's Private PHPShell.php * e24cbf0e294da9ac2117dc660d890bb9
+cihshell_fix.php * 3823ac218032549b86ee7c26f10c4cb5
+PHP Shell.txt * a2f8fa4cce578fc9c06f8e674b9e63fd
+co.php * 62199f5ac721a0cb9b28f465a513874c
+erne.txt * fc1ee2481976c4be26fbb4c5627a7c89
+s72 Shell v1.1 Coding.txt * c2e8346a5515c81797af36e7e4a3828e
+a.php * e3b461f7464d81f5022419d87315a90d
+cpg_143_incl_xpl.php * 5937b131b67d8e0afdbd589251a5e176
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.php * c6eeacbe779518ea78b8f7ed5f63fc11
+simple-backdoor.txt * f091d1b9274c881f8e41b2f96e6b9936
+php-include-w-shell.txt * 4e913f159e33867be729631a7ca46850
+c66.php * 0f5b9238d281bc6ac13406bb24ac2a5b
+gfs_sh.txt * a2516ac6ee41a7cf931cbaef1134a9e4
+load_shell.txt * de0b7923a98c1e6a750222c2b5d5738d
+404.php * 078c55ac475ab9e028f94f879f548bca
+G5.php * 95b4a56140a650c74ed2ec36f08d757f
+Private-i3lue.txt * 13f5c7a035ecce5f9f380967cf9d4e92
+wso2.php * cbc44fb78220958f81b739b493024688
+SyRiAn.Sh3ll.v7.txt * 500c070e1696fa777f14b793cbd959dd
+GFS web-shell ver 3.1.7 - PRiV8.txt * be0f67f3e995517d18859ed57b4b4389
+27.9.txt * ab6eaef74d34bc79925caa2fb05ec9a7
+b374k.v1.txt * b8d3f0f9ad8b1083f24072f8cfe13e04
+zacosmall.txt * a871996cf69ae3b771753c3c6c4b3d96
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.txt * c6eeacbe779518ea78b8f7ed5f63fc11
+accept_language.txt * 50635cfab8b52190a732af2f18d8f7cc
+Cyber Shell (v 1.0).php * 46a18979750fa458a04343cf58faa9bd
+myshell.txt * d4c247204240d67ddd6e8e7502b711a7
+up.php * 7edefb8bd0876c41906f4b39b52cd0ef
+Fx29Sh.3.2.12.08.txt * 532da60ffaa2a038a0a1dceefa5e184b
+MySQL Web Interface Version 0.8.txt * 36d4f34d0a22080f47bb1cb94107c60f
+bug (1).php * 91c5fae02ab16d51fc5af9354ac2f015
+NCC-Shell.txt * 77970bda2a9061e9f48385ea6cca0699
+isko.txt * 392d49128747c609c565e22fd3d38c4f
+Safe_Mode_Bypass_PHP_4.4.2_and_PHP_5.1.2.txt * e7da273cee2d5b0ab14a847b87e3adb0
+Backdoor.PHP.Agent.php * 6fcc283470465eed4870bcc3e2d7f14d
+r57_Mohajer22.txt * e5b2131dd1db0dbdb43b53c5ce99016a
+phpjackal1.3.txt * b2e693396e9427f65aa86ab475ecfdd4
+connect-back.php.txt * 6cb98560df19790d6bfd2d29a3a7fec5
+php-backdoor.txt * 2b5cb105c4ea9b5ebc64705b4bd86bf7
+kolang-bypass.txt * 4449148c994431c93d38cfade8f237bd
+megabor.txt * cc5f27fd396644fd0d9710f1dbb6ff7e
+r57.1.4.0.php * 574f3303e131242568b0caf3de42f325
+remview_fix.php * a24b7c492f5f00e2a19b0fa2eb9c3697
+mini.j0s_ali.j0e.v27.9.txt * ab6eaef74d34bc79925caa2fb05ec9a7
+ly0kha.txt * 5c1c8120d82f46ff9d813fbe3354bac5
+antichat.php * 3f71175985848ee46cc13282fbed2269
+NIX REMOTE WEB-SHELL v.0.5 alpha Lite Public Version.php * f3ca29b7999643507081caab926e2e74
+wso2.5.php * 7c8e5d31aad28eb1f0a9a53145551e05
+cmd.txt * 2abbc82d32135e768a4258c0e56a2544
+x0rg.byp4ss.txt * 19204b0f51d592118177701d24cac90d
+150.php * 400c4b0bed5c90f048398e1d268ce4dc
+acid.php * b8f261a3cdf23398d573aaf55eaf63b5
+MySQL Web Interface Version 0.8.php * 36d4f34d0a22080f47bb1cb94107c60f
+metaslsoft.php * aa328ed1476f4a10c0bcc2dde4461789
+Dive Shell 1.0 - Emperor Hacking Team.php * 1b5102bdc41a7bc439eea8f0010310a5
+bdotw44shell.txt * 4f71ce0cf112207fc7730784c614ca13
+DTool Pro.txt * 366ad973a3f327dfbfb915b0faaea5a6
+404.txt * c6ae7930aa5502045906e46838148092
+PH Vayv.txt * 35fb37f3c806718545d97c6559abd262
+fx.txt * 942d5308c90437c55cc2a90239e7ce2c
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php * 49ad9117c96419c35987aaa7e2230f63
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.php * 089ff24d978aeff2b4b2869f0c7d38a3
+r57shell2.0.txt * e853bd4808b3834f08d91207b8753cd9
+uploader.txt * bbefb73f01371d511b600a252fd835f9
+spygrup.txt * 18517989eb7889d1220359a695e33bb3
+c37.php * d01144c04e7a46870a8dd823eb2fe5c8
+FaTaLisTiCz_Fx.txt * b4b7e32a6a09f251aeeeed69bd96203c
+pHpINJ.txt * d7a4b0df45d34888d5a09f745e85733f
+Safe mode breaker.php * 5bd07ccb1111950a5b47327946bfa194
+Worse Linux Shell.php * 8338c8d9eab10bd38a7116eb534b5fa2
+r57.txt * eff39674c95812ebe1961048e56ee68e
+r57-bd.txt * 79c3f7aff97611930076994b7e30bea4
+c99v2.php * 157b4ac3c7ba3a36e546e81e9279eab5
+knullsh.txt * 1bd6d6835296305ab21cd1ec34ab8627
+AntiSecShell.v0.5.txt * 6595b8a404ab2ed20182fdd7bec587cd
+cmd.c * 0ce579c8eb41cebfe63c0f087d9a4049
+cmd.cfm * 90377d911a3bc87887f313a62c08ab19
+mycode12.cfm * 0847f00cd22a339f77289f04ffbadaa0
+ColdFusion.chm * d018c3232a719cee65f30e56c6d0b2ae
+xl.cfm * d9c5cffb85a89dd5f163f317a2c8eff5
+list.cfm * 16ffc5af7fb684adfc161b7c2a692812
+cfmShell.cfm * ac46184a83d2bc9b74ee27edea12df43
+cmfshell.cmf * 4f232fd2341b0b3e947a4a5d6111e143
+google.jpg * 47d2b6513727bfbc567803e3821b1308
+1.asp * 8991148adf5de3b8322ec5d78cb01bdb
+121.jpg * d243cf3efea664fae90c3e819b77041a
+01.asp * 61a687b0bea0ef97224c7bd2df118b87
+wt.asp * 96fdd8dcd3b3a17fdcb2ed1353a9e998
+1.aspx * f4b6773c752b5d53c4898cab21a4fdc8
+01.aspx * f4b6773c752b5d53c4898cab21a4fdc8
+wt.aspx * a73e186a0560256396f968ee57588956
+finaly.aspx * f4b6773c752b5d53c4898cab21a4fdc8
+cscript.exe * 23d42c651f89420f7232aeb7a2a43d03
+dabao.asp * 3919b959e3fa7e86d52c2b0a91588d5d
+1.bat * e0f938bd0ccb74ef683c2f85ba9b3855
+unpack.vbs * cb4180de5be29d02a8ff1e6144d8782c
+indexx.asp * b7f46693648f534c2ca78e3f21685707
+no.jsp * ec482fc969d182e5440521c913bab9bd
+ma2.jsp * 4b45715fa3fa5473640e17f49ef5513d
+ma1.jsp * 532b93e02cddfbb548ce5938fe2f5559
+ma3.jsp * 4a812678308475c64132a9b56254edbc
+JFolder.jsp * 8979594423b68489024447474d113894
+in.jsp * 793b3d0a740dbf355df3e6f68b8217a4
+silic webshell.jsp * 4b4c12b3002fad88ca6346a873855209
+JspSpyJDK5.jsp * 341298482cf90febebb8616426080d1d
+job.jsp * 56c005690da2558690c4aa305a31ad37
+spjspshell.jsp * d39d51154aaad4ba89947c459a729971
+ma4.jsp * 6e0fa491d620d4af4b67bae9162844ae
+Readme.txt * 6c9bf7acab7f9edd315b88c51ee5d2e5
+example-css.css * b6eaf409dcb7e0b8cbac765d75fedb58
+1.jsp * 3ea688e3439a1f56b16694667938316d
+2.jsp * 7eabe0f60975c0c73d625b7ddf7b9cbd
+Browser.jsp * a7e25b8ac605753ed0c438db93f6c498
+gpl.txt * 67961f0a08839089d85416c25771e972
+2.php * 267c37c3a285a84f541066fc5b3c1747
+moon.php * 2a2b1b783d3a2fa9a50b1496afa6e356
+s-u.php * efc7ba1a4023bcf40f5e912f1dd85b5a
+zip.php * b7800364374077ce8864796240162ad5
+Readme.txt * 8de2cc21a9a759f41a745b3915e11662
+1.aspx * 82530b9545e741366d79ef8531d7ea9a
+01.aspx * f0550c093576c12541a917e5d3b321f2
+ASP.NET Web BackDoor.aspx * 7d2c121d2e3872e0f96922bc7f5cb833
+aspxspy.aspx * ba55e0634db31bfe37d979269deefac0
+view.aspx * 5f8c6f09a12c433d71ba40fbef449d86
+11.aspx * e5027309bf8343934d3dfd24250f91a0
+read.txt * 54045ffdca0489c345deae7c0fdcd435
+aspx.aspx * 60881e9daefa09fe1fd75b5e0fb01f3e
+1.aspx * ba55e0634db31bfe37d979269deefac0
+aspxspy.aspx * ba55e0634db31bfe37d979269deefac0
+read.txt * 54045ffdca0489c345deae7c0fdcd435
+test3693.war * 812cae42fa759eced9e18f33d20cac4e
+WebShell.cgi * bc486c2e00b5fc3e4e783557a2441e6f
+mybase.md * e3d719fffe8d412cf20f32c9fb6d4baf
+2016051523132374985.png * 0a1b81e3e62402a71304cbb97ccf6e8d
+2016051523122747980.png * 52db7231240aba7d8cb6657d7634fb7f
+2016051523124431883.png * 2f59cb1f6984b4c737fa2e065b1eef00
+2016051523140225737.png * de792ff98283e5dafd8f0373aa2c0645
+cmd.jspx * e8394312f094d66f53cdfdf52a4518e4
+jjw.jspx * a8b8a789644340637269a7d9de715afd
+jspspy.jspx * 4b6f3a4482d92333a6fcaa2e618fe281
+jw.jspx * 667f561b7b6618fb5b3f287450df41dc
+jspx.jspx * 2f6144b84eec0cade35ea6dd330207e6
+paxmac.jspx * ceb4f720f49a136fa660f87f7c2947cb
+base64.jspx.txt * e8394312f094d66f53cdfdf52a4518e4
+Readme.md * ee98d0a20a20fed9de8ecb891242071d
+sctp_reverse.py.txt * 32dff8667d5c2c32921ab4f45df6b883
+darkBC.py.txt * 2a7f1e94c35ca603a309de806dfd4ef6
+Phyton Shell.py * 92b3c897090867c65cc169ab037a0f55
+d00r_py3.py * b6b561c0b28f22a1dbe8a14c56767a6c
+xshock-0.1.tar.gz * 792926406932e4a20936228b578fab08
+smtpd.py * 4390ff6c8b614a05ae53c673c2c4bd66
+cgi-python.py * 0a15f473e2232b89dae1075e1afdac97
+no.jsp * ec482fc969d182e5440521c913bab9bd
+ks0ljvi9m2.txt * 7b5bee50bf23e4fd9ff98454539624d3
+807.jsp * ae76c77fb7a234380cd0ebb6fe1bcddf
+hsxa1.jsp * 5686d5a38c6f5b8c55095af95c2b0244
+web.jsp * 4bc11e28f5dccd0c45a37f2b541b2e98
+cmdjsp.jsp * 1b5ae3649f03784e2a5073fa4d160c8b
+ma.jsp * 4cc68fa572e88b669bce606c7ace0ae9
+dm.jsp * 14e9688c86b454ed48171a9d4f48ace8
+customize.jsp * d55578eccad090f30f5d735b8ec530b1
+sys3.jsp * b3028a854d07674f4d8a9cf2fb6137ec
+tree.jsp * bcdf7bbf7bbfa1ffa4f9a21957dbcdfa
+xia.jsp * 6aa32a6392840e161a018f3907a86968
+x7.jsp * 14e9688c86b454ed48171a9d4f48ace8
+Java Shell.jsp * 36403bc776eb12e8b7cc0eb47c8aac83
+ma2.jsp * 4b45715fa3fa5473640e17f49ef5513d
+jfolder01.jsp * ec482fc969d182e5440521c913bab9bd
+jsp_File_browser.jsp * 7fbf36b57978d56de5541ea090d6a213
+404.jsp * 7066f4469c3ec20f4890535b5f299122
+400.jsp * 36331f2c81bad763528d0ae00edf55be
+hsxa.jsp * d0e05f9c9b8e0b3fa11f57d9ab800380
+pb.jsp * 2681350be6e33e516fab829834f408f8
+000.jsp * 2eeb8bf151221373ee3fd89d58ed4d38
+jsp-reverse.jsp * ea87f0c1f0535610becadf5a98aca2fc
+one8.jsp * ea5612492780a26b8aa7e5cedd9b8f4e
+t00ls.jsp * 9c94637f76e68487fa33f7b0030dd932
+date.jsp.txt * f60be869cdcf034a04f408c0037db536
+IXRbE02.jsp * e26e7e0ebc6e7662e1123452a939e2cd
+utils.jsp * 9827ba2e8329075358b8e8a53e20d545
+ma1.jsp * 532b93e02cddfbb548ce5938fe2f5559
+dy.jsp * e9b952b03a6dda1475a2312a5ed9b747
+ha.jsp * 98d861ca2d273ce81c94c86e2546f407
+a.jsp * 76037ebd781ad0eac363d56fc81f4b4f
+maint.jsp * d56cb35721297e2df87ff4b6b1844a94
+x.jsp * df46c0a60242821aa4f61ed61dbbce73
+ver008.jsp * a26d41e0b1b077af266633f53d550cbe
+JspWebshell 1.2.jsp * 70a0ee2624e5bbe5525ccadc467519f6
+ma3.jsp * 4a812678308475c64132a9b56254edbc
+xx.jsp * d0e05f9c9b8e0b3fa11f57d9ab800380
+spyjsp2010.jsp * 655722eaa6c646437c8ae93daac46ae0
+jdbc.jsp * 23b0e6f91a8f0d93b9c51a2a442119ce
+jshell.jsp * 124b22f38aaaf064cef14711b2602c06
+leo.jsp * 4b4c12b3002fad88ca6346a873855209
+102.jsp * c500cdc7ba1c9a3e26a5eab265ad48e1
+info.jsp * dffb5e18586f9a05e4e212babbe526b7
+luci.jsp.spy2009.jsp * 42654af68e5d4ea217e6ece5389eb302
+guige.jsp * 2c9f2dafa06332957127e2c713aacdd2
+201.jsp * a7e25b8ac605753ed0c438db93f6c498
+mmym520.jsp * 9626eef1a8b9b8d773a3b2af09306a10
+JFolder.jsp * 8979594423b68489024447474d113894
+css.jsp * fc44f6b4387a2cb50e1a63c66a8cb81c
+IXRbE.jsp * e26e7e0ebc6e7662e1123452a939e2cd
+pyth.jsp * a7e25b8ac605753ed0c438db93f6c498
+zx.jsp * 67627c264db1e54a4720bd6a64721674
+ma (1).jsp * 8017225000a9c7eabb6c1b0f60dc3728
+jweevely.md * 0858aacac5c67afc47fa13e9eb73c193
+1.jsp * c500cdc7ba1c9a3e26a5eab265ad48e1
+ok.jsp * 32dea47d9c13f9000c4c807561341bee
+in.jsp * 793b3d0a740dbf355df3e6f68b8217a4
+myxx.jsp * e0354099bee243702eb11df8d0e046df
+silic webshell.jsp * 4b4c12b3002fad88ca6346a873855209
+3.jsp * fb8c6c3a69b93e5e7193036fd31a958d
+shell1.jsp * 535abcf17ef7f0584ba6a7dcf2028008
+web02.jsp * 4bc11e28f5dccd0c45a37f2b541b2e98
+403.jsp * 059058a27a7b0059e2c2f007ad4675ef
+12302.jsp * a3930518ea57d899457a62f372205f7f
+warn.jsp * e9a5280f77537e23da2545306f6a19ad
+ver007.jsp * ea5612492780a26b8aa7e5cedd9b8f4e
+action.jsp * 5a7d931094f5570aaf5b7b3b06c3d8c0
+JspSpyJDK5.jsp * 341298482cf90febebb8616426080d1d
+zval.jsp * e01d827a17f6f70a148dc01569c94c15
+data02.jsp * 9f54aa7b43797be9bab7d094f238b4ff
+2.jsp * 64a3bf9142b045b9062b204db39d4d57
+jsp.txt * f9962f100addcdaed079d845b32cc499
+u.jsp * 6acc82544be056580c3a1caaa4999956
+test.jsp * c431584aa1104b674b57e38086e7f97a
+JspSpy1.jsp * d71716df5042880ef84427acee8b121e
+nogfw.jsp * 344f9073576a066142b2023629539ebd
+config.jsp * d44df8b1543b837e57cc8f25a0a68d92
+icesword.jsp * 077f4b1b6d705d223b6d644a4f3eebae
+ROOTtows.jsp * be0346a5d1feb18ea37d16ad1947bf23
+t00ls1.jsp * c3cca1260f2667e66f83733cab9098ff
+style.jsp * b9744f6876919c46a29ea05b1d95b1c3
+he1p.jsp * b330a6c2d49124ef0729539761d6ef0b
+suiyue.jsp * c93d5bdf5cf62fe22e299d0f2b865ea7
+m.jsp * 88fc87e7c58249a398efd5ceae636073
+SJavaWebManageV1.4.jsp * cc155b8cd261a6ed33f264e710ce300e
+queryDong.jsp * 90a5ba0c94199269ba33a58bc6a4ad99
+k8cmd.jsp * b39544415e692a567455ff033a97a682
+xm.jsp * ea5612492780a26b8aa7e5cedd9b8f4e
+index_sys.jsp * c0c6f940de47c5955e842cfa2984802c
+t.jsp * 09caf76c07d0ee92ad3c27e10bf93a31
+JspSpy.jsp * d71716df5042880ef84427acee8b121e
+520.jsp * 9abd397c6498c41967b4dd327cf8b55a
+mg.jsp * 794e656491eddf9694975adcd2915ec0
+data.jsp * 9f54aa7b43797be9bab7d094f238b4ff
+c5.jsp * 8b457934da3821ba58b06a113e0d53d9
+index_bak1.jsp * 1acf96388a960e9445246f41d9cd205f
+yijuhua.jsp * de193b4289069b2ce425f898dfa27714
+jsp.jsp * f98d2b33cd777e160d1489afed96de39
+list1.jsp * 8d9e5afa77303c9c01ff34ea4e7f6ca6
+shell.jsp * a7e25b8ac605753ed0c438db93f6c498
+webshell-nc.jsp * 598eef7544935cf2139d1eada4375bb5
+cofigrue.jsp * 349ec229e3f8eda0f9eb918c74a8bf4c
+zend.jsp * 591ca89a25f06cf01e4345f98a22845c
+edit_ot.jsp * 794e656491eddf9694975adcd2915ec0
+k81.jsp * 41efc5c71b6885add9c1d516371bd6af
+JspSpyJDK51.jsp * 29aebe333d6332f0ebc2258def94d57e
+guige02.jsp * a3b8b2280c56eaab777d633535baf21d
+123.jsp * c691f53e849676cac68a38d692467641
+job.jsp * 56c005690da2558690c4aa305a31ad37
+spjspshell.jsp * d39d51154aaad4ba89947c459a729971
+inback3.jsp * ea5612492780a26b8aa7e5cedd9b8f4e
+asd.jsp * a042c2ca64176410236fcc97484ec599
+0000.jsp * 2eeb8bf151221373ee3fd89d58ed4d38
+ma4.jsp * 6e0fa491d620d4af4b67bae9162844ae
+myxx1.jsp * e0354099bee243702eb11df8d0e046df
+Silic.jsp * d0e05f9c9b8e0b3fa11f57d9ab800380
+Chropper.java * 175a75ecf6da714750ceaa35fcf6a2b4
+cmdjsp.jsp * b815611cc39f17f05a73444d699341d4
+jsp-reverse.jsp * 8b0e6779f25a17f0ffb3df14122ba594
+cmd.jsp * 5391c4a8af1ede757ba9d28865e75853
+browser.jsp * 37603e44ee6dc1c359feb68a0d566f76
+list.jsp * 1ea290ff4259dcaeb680cec992738eda
+ListServlet.class * ff0d49ae1877145a2c2e3d5b9ba9dea4
+CmdServlet.java * ca3d1538547476135882d1446bfd954d
+UpServlet.class * 0e41b62b6dfcc8fe871ca0a71c2ffe0f
+UpServlet.java * 49438b852f5b2e1cf2d1b4b46cdb282e
+CmdServlet.class * aee2c364c215e866f0dd7f9072e2cf0f
+ListServlet.java * 8cdd30382713529e3287871f38e1861d
+up.jsp * 515a5dd86fe48f673b72422cccf5a585
+up_win32.jsp * 1ac6a131cbf04c079d489f04868f1783
+cmd_win32.jsp * cc4d4d6cc9a25984aa9a7583c7def174
+cmdjsp.jsp * 1b5ae3649f03784e2a5073fa4d160c8b
+Java Shell.jsp * 36403bc776eb12e8b7cc0eb47c8aac83
+jsp-reverse.jsp * ea87f0c1f0535610becadf5a98aca2fc
+JspWebshell 1.2.jsp * 70a0ee2624e5bbe5525ccadc467519f6
+minupload.jsp * ec905a1395d176c27f388d202375bdf9
+Customize.jsp * 8bb7f5a764e51cac59064abc8f93168e
+jspspy_k8.jsp * 71097537a91fac6b01f46f66ee2d7749
+thx.jsp * 794e656491eddf9694975adcd2915ec0
+download.jsp * fa87bbd7201021c1aefee6fcc5b8e25a
+jspspy.jsp * ab77e4d1006259d7cbc15884416ca88c
+no.jsp * ec482fc969d182e5440521c913bab9bd
+ma2.jsp * 4b45715fa3fa5473640e17f49ef5513d
+ma1.jsp * 532b93e02cddfbb548ce5938fe2f5559
+ma3.jsp * 4a812678308475c64132a9b56254edbc
+JFolder.jsp * 8979594423b68489024447474d113894
+in.jsp * 793b3d0a740dbf355df3e6f68b8217a4
+silic webshell.jsp * 4b4c12b3002fad88ca6346a873855209
+JspSpyJDK5.jsp * 341298482cf90febebb8616426080d1d
+job.jsp * 56c005690da2558690c4aa305a31ad37
+spjspshell.jsp * d39d51154aaad4ba89947c459a729971
+ma4.jsp * 6e0fa491d620d4af4b67bae9162844ae
+Readme.txt * 6c9bf7acab7f9edd315b88c51ee5d2e5
+example-css.css * b6eaf409dcb7e0b8cbac765d75fedb58
+1.jsp * 3ea688e3439a1f56b16694667938316d
+2.jsp * 7eabe0f60975c0c73d625b7ddf7b9cbd
+Browser.jsp * a7e25b8ac605753ed0c438db93f6c498
+gpl.txt * 67961f0a08839089d85416c25771e972
+cmdjsp.jsp * b815611cc39f17f05a73444d699341d4
+jsp-reverse.jsp * 8b0e6779f25a17f0ffb3df14122ba594
+cmd.jsp * 5391c4a8af1ede757ba9d28865e75853
+browser.jsp * 37603e44ee6dc1c359feb68a0d566f76
+list.jsp * 1ea290ff4259dcaeb680cec992738eda
+ListServlet.class * ff0d49ae1877145a2c2e3d5b9ba9dea4
+CmdServlet.java * ca3d1538547476135882d1446bfd954d
+UpServlet.class * 0e41b62b6dfcc8fe871ca0a71c2ffe0f
+UpServlet.java * 49438b852f5b2e1cf2d1b4b46cdb282e
+CmdServlet.class * aee2c364c215e866f0dd7f9072e2cf0f
+ListServlet.java * 8cdd30382713529e3287871f38e1861d
+up.jsp * 515a5dd86fe48f673b72422cccf5a585
+up_win32.jsp * 1ac6a131cbf04c079d489f04868f1783
+cmd_win32.jsp * cc4d4d6cc9a25984aa9a7583c7def174
+cmdjsp.jsp * 1b5ae3649f03784e2a5073fa4d160c8b
+Java Shell.jsp * 36403bc776eb12e8b7cc0eb47c8aac83
+jsp-reverse.jsp * ea87f0c1f0535610becadf5a98aca2fc
+JspWebshell 1.2.jsp * 70a0ee2624e5bbe5525ccadc467519f6
+minupload.jsp * ec905a1395d176c27f388d202375bdf9
+Customize.jsp * 8bb7f5a764e51cac59064abc8f93168e
+jspspy_k8.jsp * 71097537a91fac6b01f46f66ee2d7749
+thx.jsp * 794e656491eddf9694975adcd2915ec0
+download.jsp * fa87bbd7201021c1aefee6fcc5b8e25a
+jspspy.jsp * ab77e4d1006259d7cbc15884416ca88c
+dict.txt * 768b61e93460bd3f4d2ea48f86a9f16f
+webshell.txt * 76c55205753201ae8f29641ebeba79ae
+readme.md * d227365d9eb77386768daeea8eb0b51d
+netspy.jsp * efc99ac12e9d81480cc7c830a52fa322
+Readme.txt * 6c9bf7acab7f9edd315b88c51ee5d2e5
+example-css.css * b6eaf409dcb7e0b8cbac765d75fedb58
+1.jsp * 3ea688e3439a1f56b16694667938316d
+2.jsp * 7eabe0f60975c0c73d625b7ddf7b9cbd
+Browser.jsp * a7e25b8ac605753ed0c438db93f6c498
+gpl.txt * 67961f0a08839089d85416c25771e972
+Jspspyweb.jsp * 4e9be07e95fff820a9299f3fb4ace059
+JspSpyJDK5.jsp * 7a4b090619ecce6f7bd838fe5c58554b
+JspSpy1.jsp * d71716df5042880ef84427acee8b121e
+JspSpy.jsp * 2434a7a07cb47ce25b41d30bc291cacc
+JspSpyJDK51.jsp * 29aebe333d6332f0ebc2258def94d57e
+java_faces_shell.xhtml * 590852c116da7e63d806dc6843846f31
+readme.md * 9e986a9acf3890e322ae38ece32419ff
+cat.jsp * 3d5b48ae6e77c0de156721774a227412
+Cat.java * 8b58bb59e88643fe3b1b42093abc1d7c
+2.jpg * 8751c71494b0de04c00c2059fcb4de9c
+cmd1.jsp * 657a3d3a22a5cc5bb32c13cc01bbf8d2
+1.jpg * dcfc5b881aaa58fbd233d49a65b7a4aa
+6.jpg * 0abaee21ad178bfb9670ff20d66faa28
+readme.md * 3f74d521f9d538f30f5603c743b53efc
+catjsp.md * 7d40c527b3bb3809af87fd1e07de90fe
+3.jpg * d512d2e1f38b248bcda68c634ba12cfb
+test.php * 80a9d47267697864eb42054f3992deef
+5.jpg * 11364398c1227b2cb321a8d83a7f9443
+cmd2.jsp * d0831c859163deb1d5e14089eadea0d7
+4.jpg * 73f7636f497e2fac2d91af76381f0bd0
+cat.jar * b3ebb7c3cfda54eefc253db68af72259
+hmass (priv8 mass defacor).pl * 5c2a507111be088961d6ba2622e796b3
+telnet.cgi.pl * dee697481383052980c20c48de1598d1
+remot shell.pl * 0978b672db0657103c79505df69cb4bb
+lurm_safemod_on.cgi.pl * 5ea4f901ce1abdf20870c214b3231db3
+telnet.pl * dd9dba14383064e219e29396e242c1ec
+WebShell.cgi.pl * bc486c2e00b5fc3e4e783557a2441e6f
+inc.pl * 0750f1ed7ebc8c61d2c051f2749277ce
+rcpexp.pl * a356ea3313cdf9a5091fa11b22c20807
+exim.pl * 75a4060e1a8e16e34f73f49786a10056
+Silic Group_readme.txt * 4d59352ae419951319c5ecc03250bc0d
+ka0tic.pl * 290706a6e5fe2db14dfb90ebbdb7ffda
+Silic Group_cgi.pl * 0477aac059f4f125816e25b207ae50c4
+INSTALL * 1e4899776657f3db08b3d50c60ff21e6
+COPYING * fd8c618701ae5f6e16ea7d386e20a4e8
+README * 6f9cd3d0fafd59bdce76a15050185907
+ChangeLog * 35735a8c6e14e3865bae1cc64e4c4f5a
+perlwebshell.cgi * f1063576513fb6bc3d1b2914396428d0
+AUTHORS * e3fe4381ffad309a9ae3238c2abc2d86
+pps-v3.5.pl * 56bc2906b6ea007ce117cfc87db055c9
+pps-v3.0.pl * c8a3147779d793e2974fbaaffd1ab4fc
+pps-v1.0.pl * a906c94ef860417f6421ab79b0d02887
+pps-v4.0.pl * 653708cd0967a66e14963467d7320ab6
+h6ss.php * 272dde9a4a7265d6c139287560328cd5
+README.md * cc3db0ee972afbea2632b96f8e3cd0a6
+BNKQbAKQ.txt * 8fac41fdc2c5363bffa85f9cfaa1b389
+supers.php * ec13ab978ad85f7465e5fa7ec74352bb
+php1.php * d539eefaf258fdf80652e503d4cfad3f
+bypass-waf-2015-06-16-02.php * 088cafc09d17f2a26981f1d39818bc92
+lpl38-com-php.txt * 9f21edf1802fb54dc38506ee13f3c50f
+php-xor.md * 25256f33e77f4b409f925a1adcb009b9
+indrajith.txt * e20a3556c6b42ccc15163be62dd67581
+koplak_php%3Bme.txt * 92063b6c7e619045102d4326d3ba2e5c
+wso2.5.1.php * dbeecd555a2ef80615f0894027ad75dc
+poison.php * 124841df98da5cdb6ff747c240c3612d
+shell.php.txt * 160b79990b5a72f3b08f5055d4488a79
+webshell-123.php * 2782bb170acaed3829ea9a04f0ac7218
+bypass-safedog-2016-08-29.php * 6528cc002029c69e5fd89d6434e3a927
+spy.php * be4fdb6f20cd3c596990c9252ecced6f
+ghost_source.php * cbf64a56306c1b5d98898468fc1fdbd8
+phpshell.php.txt * 9e1a98fb3f02281e8a483fe2e4de25d5
+other.php * ba7473f3410cc51f4bb27fa5e0cdd106
+s.php.txt * 79b22d7dbf49d8cfdc564936c8a6a1e2
+aioshell.php * 9b795afa8397ac0281c31398273e28b6
+404.php.no.txt * daab57846ab4a4a4ab7a7e42f493b6ec
+silic.php * 437d30c94f8eef92dc2f064de4998695
+sure.php_.txt * 59d9dd1c7efa58dbec5a72a365022481
+conflg1.php * 7b9b2c922f447cf57792d482349805bd
+zone_hackbar_beutify.php * e26357ed1d2b65426d9d7c4d4816177e
+wso2.php.txt * b87b3c6cc78d0f0d6eb2e9e73af825e0
+shell.php * 791708057d8b429d91357d38edf43cc0
+lnc.php * a18a1bc5e9e40812a438d6816e020378
+xslt.php * 70523edfee6c387ed98472ce751680f0
+bypass-waf-2015-06-10-01.php * 07d8298116bf082798db968b12ba7e28
+oi.php.decode.txt * 89194577ec4e9d95cb7c54750a79f042
+priv8-2012-bypass-shell.php.txt * 3b6013b3e9ec147f00de99feedbc7172
+bypass-waf-2015-06-16-01.php * a0a85d38f8a3d40ca03dbfac51c6f89b
+icesword.php * 9d95820688eecd046a7d8caff7040534
+w.php * 2daecae6aac185548df7f18d7095edeb
+indrajith-2.0.txt * d755b10656e7b2914fd4b445398dd9fc
+tips.md * f5985dd7ef020dee7432156f4ab463b9
+ghost.php * 38dc8383da0859dca82cf0c943dbf16d
+other-decode.php * 6793d8ebab93e5a0f91e5a331221f331
+tiamo.php.decode.txt * 0ba2797e1efa862a3c1a246dfe12f7e5
+xw.php * dd643a6dacf4f922c60669d3211645eb
+phpwebshell pass by waf for share.md * 9afa248931e0ea8cb53adb8de3a84c1d
+webshell-cnseay-x.php * a0f9f7f5cd405a514a7f3be329f380e5
+404.php.txt * fa0a05b09cd538c7a81232a7334f5891
+404.php * ced050df5ca42064056a7ad610a191b3
+bypass-waf-2015-06-16-03.php * 0fa288f0c0a5187f9dda24ece99f34ec
+webshell-cnseay02-1.php * 95fc76081a42c4f26912826cb1bd24b1
+biantai.php * e78f48f298f3869961be2228df3764f7
+gif.php * 2da34b14c430db432fa254c8d0cbbacb
+2011.php * 197d4f0654faccef107faa3026487a13
+reverseshell-poc.txt * d0005805094e03f6c226cce5895878b3
+php-xor.php.md * f8746f252b1963449d89c76a4dd4779b
+Crack8_PHP.txt * b4f555c7128eb94e65913ee59b3e0ee2
+tiamo.php.txt * 4241ed910406403266ae572d4da9014a
+itsec.php * 8ae9d2b50dc382f0571cd7492f079836
+Resume.php.txt * 6ab5e329bf6e0060d9f494beb4d22bb4
+carbylamine.txt * 61d458119ef55448e2716a4e1de488a2
+zone_hackbar.php * c5b88a49de687a0b2f73899c154c5b7f
+oi.php.txt * 44a93ee0f79a1d40125ed8aa960f1cbb
+php-extension-backdoor.md * 8d51ec2f23d01204ba2cd19b5ab52a9b
+yyihacker.php.txt * e96634f41e52d5529291da0fcb53eda3
+zone_hackbar_other.php * 13a0c38ec6d8b21c54d2337cf2e02f40
+xiaom.php * c9ee02069aa00b2b26d7b92a1ebd7ba6
+priv95.php.txt * 6842841f4b74c9a451548baa08fafa2a
+xiao.php.txt * 4e92d2776f53e915faa37fe1f2058bb9
+pass-waf-2014-10-19.php * 1083f2634d1e672d6a427a081e577cad
+DAws.md * 1f9aa301220e168438f48ddb025314c2
+fbi.php * 1fb32f8e58c8deb168c06297a04a21f1
+phpspy_2005_full.php * b68bfafc6059fd26732fa07fb6f7f640
+phpspy2010.php * 14ae0e4f5349924a5047fed9f3b105c5
+phpspy_2006.php * 40a1f840111996ff7200d18968e42cfe
+2008.php * 3e4ba470d4c38765e4b16ed930facf2c
+2014phpspy.php * 9204d55a91c95a3965e138e7960e4b1f
+2011.php * fc0a162ef6f1b8238a5531cd9bbc9938
+2009lite.php * 3f4d454d27ecc0013e783ed921eeecde
+phpspy_2005_lite.php * 42f211cec8032eb0881e87ebdb3d7224
+2009mssql.php * aa17b71bb93c6789911bd1c9df834ff9
+404super.php * 7ed63176226f83d36dce47ce82507b28
+code.php * a444014c134ff24c0be5a05c02b81a79
+dev_core.php * 55ad9309b006884f660c41e53150fc2e
+readme.md * 3d52c6519ee675030ca8abb9ffbbd24c
+make2.php * 9af195491101e0816a263c106e4c145e
+wso-4.2.1.php * 00898cbc3a95544865c6ef3f6dba7506
+wso2_pack.php * 1da8ceb757a41e8be291af060e639c73
+wso-4.2.2.php * 2998de8b29315b51638a25eb0a1dc318
+wso-4.2.5.php * 9a5e14d69d57ada67d38c17a4283a713
+wso-4.2.3.php * fdb6145282d7cac82a66ba7fde27f2bf
+readme.md * 70ea3ee42290cabf7079c185d466d0f0
+wso.php * 0176c418103fe6acff9b0845429abb52
+wso_404.php * 57416250665fce5a75cf937662bd0189
+WSO_base64.php * 72d1df71c41c6711ca5ba026c59ccb82
+wso-4.2.0.php * 11c9ca06fa172f4631821825c819d346
+wso-4.1.3.php * 565d7e3411a3b0a555387087cb2d1439
+wso2.php * eda02ae6dd7d0fe841653f5e6a69d17e
+wso-4.2.4.php * b157382351b17ea3ee889ba29c23555d
+WSO_4_0_5.php * b4d3b9dbdd36cac0eba7a598877b6da1
+README * f246766b14020b6d186a7b30303aa24f
+upload.py * 9a0f98582165d2e1ca5a5f88fc8c912b
+phpkit.py * 7da93f0661aa06e4e1ea52c9d0d4809c
+CHANGELOG * 5cd409f4f88fcdacf162a0860cb1b8fc
+odd.php * 3c30399e7480c09276f412271f60ed01
+README.md * a9decc995c3c930ac068edcf59b3b9a6
+b374k-3.2.3.php * c6a7ebafdbe239d65248e2b69b670157
+b374k-3.2.2.min.php * bc0090c4ea1dc9b744422b2c2be1802c
+b374k-2.2.min.php * 0723362e176328b2e98e99ac6cc17884
+b374k-2.6.php * b7c72337c4bf8af12635a23a46125d0d
+b374k-3.2.2.php * 48ca18a25424a0f52276290b619a7a83
+b374k-2.4.min.php * abc027eb6bf8979012986316f83256ac
+b374k-2.5.php * 0bd383d71e95f0c28eb4fff2fb1ad03b
+b374k-2.7.php * b2e1643489ddbdca5e1a4ae06e581cad
+b374k-2.4.poly.php * afcdc70f6890eb192763b8a69791df7d
+b374k-3.2.3.min.php * e23c07f9da000c044a926876b246d8db
+mini_b374k * b8badb18af0fa1503fe32f0df1cc403e
+b374k-2.3.min.php * 25284d1fd71b11a5769ec4f9c32c8c98
+b374k-2.2.poly.php * d7b955b73a3d24c39d43ceb0b597f87d
+b374k-2.8.php * 6e1a88e0ab05e9dca8194b624500b528
+b374k-2.3.poly.php * a89c5695992c26b5345d6fe136c78776
+b374k-2.4.php * 90208b0d9682a2e0adf2a5c017c2cf88
+b374k-2.5.source.php * 9fa6e5899e9cc8a868dfdaa31e2d58a0
+b374k-3.2.2.php * 48ca18a25424a0f52276290b619a7a83
+b374k-2.8.source.php * bfbcf7566485a1e1d3627b093096aed2
+b374k-2.7.source.php * 9ad34b44993ec691db1a5edb58ca4cd8
+b374k-2.6.source.php * c8b244a825e1d049b07a661536558e47
+b374k-2.3.php * 5931a716711cbd98ca0c24e7e64c05b0
+b374k-2.2.php * 1606bdac2cb613bf0b8a22690364fbc5
+r57_Mohajer22.php * e5b2131dd1db0dbdb43b53c5ce99016a
+r57_Mohajer222.jpg * 7646230b5ddcc7286450bbad8e6800d5
+r57_Mohajer22.jpg * c0dc51d5c2bd79f772668e063fca8cf5
+c99.php * 61a92ce63369e2fa4919ef0ff7c51167
+c99.jpg * 4a6e6e5df53429c1901ed85947102e75
+NetworkFileManagerPHP.php * acdbba993a5a4186fd864c5e4ea0ba4f
+NetworkFileManagerPHP2.jpg * 2033a3657b8738773ad43583f79b7ebe
+NetworkFileManagerPHP.jpg * 648c6f92b8c66c547a6fc49f51f9f875
+smowu.php * 74e1e7c7a6798f1663efb42882b85bee
+C99madShell v. 3.0.jpg * 412573e777294b23912e25d846558df1
+PHPJackal v1.5.php * d76dc20a4017191216a0315b7286056f
+PHPJackal v1.5.jpg * ec4a86bada22382a25772caac2df4634
+Dx.jpg * e41a9e5a11f1616d51b86dfdcae1d869
+Dx.php * 9cfe372d49fe8bf2fac8e1c534153d9b
+zacosmall.php * 5295ee8dc2f5fd416be442548d68f7a6
+zacosmall.jpg * 01011ab7ec54265837d57803d4a9dd62
+PHPRemoteView2.jpg * 0d7dabc8dddd29c0ea7268d774dd18fc
+PHPRemoteView.jpg * ce94f7044d19fc86035be8fc850c2dda
+PHPRemoteView.php * 29420106d9a81553ef0d1ca72b9934d9
+MySQL Web Interface Version 0.8.jpg * 9f1b15b11b1c6bff086176ca472a65d2
+MySQL Web Interface Version 0.8.php * 36d4f34d0a22080f47bb1cb94107c60f
+INSTALL * 104f29cd2d078166cff495581fd55be5
+phpshell3.php * 76117b2ee4a7ac06832d50b2d04070b8
+config.php * bd83144a649c5cc21ac41b505a36a8f3
+style.css * f16ad66813adb7000a73f9d2929f73e6
+pwhash.php * ba120abac165a5a30044428fac1970d8
+phpshell3.jpg * 802c8edeb7746fa82097db3f868d8767
+PHPJackal.php * e2830d3286001d1455479849aacbbb38
+PHPJackal2.jpg * da5e0da563c5a1dc2fcc7123ce247814
+PHPJackal.jpg * fb3d9a083bd620a4a9418ff05d488a4d
+SnIpEr_SA Shell.php * 911195a9b7c010f61b66439d9048f400
+SnIpEr_SA Shell.jpg * 57824a8e01a93516ae1ecd2484a8bf23
+r57.php * 4108f28a9792b50d95f95b9e5314fa1e
+r57.jpg * e850649aba473c8fbc5f5df8fa0b4880
+r572.jpg * 591a4b3fd93e5aa41b891d75b6929671
+PHP Shell2.jpg * bb8e3afea48be79ca833abb6c1ee7658
+PHP Shell.php * a2f8fa4cce578fc9c06f8e674b9e63fd
+PHP Shell.jpg * 59509183dde2d83e5e1867be2409655d
+PHP Shell3.jpg * 4f98dc5431188f83ada90294b2ceb871
+ironshell.jpg * 7a4cf554897c150b915d48ccb774e292
+ironshell.php * 8bfa2eeb8a3ff6afc619258e39fded56
+NIX REMOTE WEB-SHELL.php * 0b19e9de790cd2f4325f8c24b22af540
+NIX REMOTE WEB-SHELL2.jpg * dc20eeca5d5b26ca270f6a703b8b79ed
+NIX REMOTE WEB-SHELL.jpg * f518f9f752c3ba38afb91512da758517
+Shell [ci] .Biz was here.jpg * b23c7cdc258af4ec0fcabb1f6175de1b
+Shell [ci] .Biz was here.php * f2fa878de03732fbf5c86d656467ff50
+smowu.php * 3aaa8cad47055ba53190020311b0fb83
+c99_madnet.jpg * c8e83cf48cae9f3d4afbe93632380e53
+c99_madnet2.jpg * 19bbee91c51293f996b81054a7306be2
+c99_locus7s.jpg * 6e31d8f7920be6a7bb1c3b7fb36bddb4
+c99_locus7s.php * 38fd7e45f9c11a37463c3ded1c76af4c
+c99_locus7s2.jpg * d722d996fe3254a5f3909de31047dbdc
+Antichat Shell v1.3.php * b3b1e08864b97c18675d60802e2d85b1
+Antichat.jpg * d9de81093a71298408eeb763e988f352
+Crystal.php * fdbf54d5bf3264eb1c4bff1fac548879
+Crystal2.jpg * 90fe143035d9ac3277d9c76da0e85c05
+Crystal3.jpg * 7a480866939f81bd98a0fa3a5b976b7b
+Crystal.jpg * c4b382f504315f3ba5a2d867107b3a92
+ctt_sh.php * 671cad517edd254352fe7e0c7c981c39
+ctt_sh.jpg * 818bbe96bf23968f483924dd52ac5e17
+c99shell.php * 5037ab002c7200f8285534ba9310bc84
+c99shell.jpg * 0daa83980af32d11f9c2305d3972a276
+Mysql interface v1.0.jpg * cbb4cec65a991fba7e7d78a5e27f58b7
+Mysql interface v1.0.php * a12fc0a3d31e2f89727b9678148cd487
+nstview2.jpg * b53d57750063b5d2622e6757f3001e31
+nstview.jpg * dd7a3c81160d05f71ef736de99a9f352
+nstview.php * 4745d510fed4378e4b1730f56f25e569
+r57_iFX.php * 513b7be8bd0595c377283a7c87b44b2e
+r57.jpg * 2f66404cdcd4024ee5c1d73dd8c47273
+r572.jpg * 6c6541721169df85d6d310c7d80a0a6b
+PH Vayv.php * 35fb37f3c806718545d97c6559abd262
+PH Vayv.jpg * 83bbbfbd04861a69617424c1ce7bf2b6
+c99_PSych0.jpg * d3266ecc6f21f806b4d7bbdeb1a23ed0
+c99_PSych0.php * cf37833c6c6e603e1d3be1a9056a1ebf
+c99_w4cking2.jpg * 3a45576d4fb741d1388074e0234d9100
+c99_w4cking.jpg * 9c392471ef2453d91ab6e7be9d1278a8
+c99_w4cking.php * 9c34adbc8fd8d908cbb341734830f971
+r57shell127.jpg * 0bd88b38f27318424a9d0731bba15277
+r57shell127.php * ae025c886fbe7f9ed159f49593674832
+r57shell.php * ef43fef943e9df90ddb6257950b3538f
+r57shell.jpg * 67dc3c14fe0d13352d155707943cb7ce
+gfs_sh2.jpg * ec28e3fa5445964981210a15db1606bc
+gfs_sh.jpg * 89f55f70b0af413136954f15b55e08dd
+gfs_sh.php * a2516ac6ee41a7cf931cbaef1134a9e4
+r57_kartal.jpg * 369c50566ca0f5d05cdad280581930ca
+r57_kartal.php * 1d912c55b96e2efe8ca873d6040e3b30
+r57_kartal2.jpg * 58a3129585e36d0fc447d0893bc53da8
+EgY_SpIdEr ShElL V2.php * 697dae78c040150daff7db751fc0c03c
+EgY_SpIdEr ShElL V2.php2.jpg * 638456642e4947bb14e5ad596116d6c7
+EgY_SpIdEr ShElL V2.php.jpg * 8cbd608dbab94bf398fe43cdfc1d1542
+iMHaPFtp.php * 12911b73bc6a5d313b494102abcf5c57
+iMHaPFtp.jpg * 48bcbbab1c1aa67777df8b179e3a05b4
+pas.php * e67ef9481220842444ab0c69dfb7e0b5
+password.txt * 9de910c63f3ad6c04336045c9915d51c
+readme.md * 9e7b7d7986f057b2dae4246ed4e1fea5
+wpes-v0.2.php * a89f9aabcfdcb815938ae6a42b0b539a
+README.txt * ce4e05261668165fef949b1408144806
+Ani-Shell.php * a7fe5f28df56d66e43dcd3b92f024113
+11.jpg * 23f714c6e96d444b72c6bb6008adfde0
+Readme.md * 5184aa324fa5375cb290d77a6cd0ef5f
+PHP reflection.php.txt * f63e099f3a10c500be8398ef803931d0
+12309.php.txt * 967dc4a0d0f104b52cd5fcd9581c9e06
+readme.md * a9c13aac6cec12ab01ef589e73ea7a6e
+README * fc9ee73ef095004a32cf71cc186dabd0
+phpkit.py * edbd7adb9150e14238d9b5fb2a9301d3
+odd.php * 3c30399e7480c09276f412271f60ed01
+client.py * c98b3d7d977ce9f54116d6493b7aaa56
+server.php * d87b019e74064aa90e2bb143e5e16cfa
+2015-09-12.md * 7a49b07d45a2c676567136d2d181cd39
+README.txt * 7582e8715b6d090dc8dc0d2cfe833096
+phpkitcli.py * 127b2a5db04e6ff28716e766793497ac
+odd.php * 594d1b1311bbef38a0eb3d6cbb1ab538
+20140901-06.png * 449a2aef83d79db573eab8f05eebb37e
+20140901-01.png * 797af1e909aa1c7547d14d2d98f3ce2c
+20140901-02.png * 9795d4dd5c2656d746525a54417086ef
+20140901-04.jpg * 6d8feab2580671a8a8e6e68bce4bd01c
+20140901-05.jpg * bc2039fb3c8477149fe44c2d5fe4b897
+20140901-03.jpg * 8b01f44271094a474d76ad4537250413
+webshell.php * 8c765dd11adacdc4e8aebda8484c349c
+readme.md * da3341a2798a51e332c03e352014547b
+getcode.php * d38920b1f6aa9bcc976df1f350e5963f
+idc.php * 7c5b1b30196c51f1accbffb80296395f
+wsb.pl * 7d16b5bb613afc4445eef1739e96b20c
+ReadMe.txt * 36250e0b627db3501e8e72c85eb7aa42
+SaiProbe_v1.0.php * 175a9172b73a7d6df9d737de7b355a48
+wso.aspx * d546b2c2b98d96c464652291a855b250
+AspxSpy2014Final.aspx * 45d854e66631e5c1cda6dbf4fea074ce
+111.aspx * 4473fd5a51392dcd67bc35e4b8d8a612
+ASPXspy2.aspx * 07191f554ed5d9025bc85ee1bf51f975
+z1(1).txt * 44db2bf9ddd0692089eb8de0eda1f426
+as.ashx * 890edeabe36b23bb5d4de739b16f3093
+xslt.aspx * 64e398e4279b0b283f2ff53bceb5376f
+con2.aspx * 42c40baac69eacace7eafcd7db57a758
+2013110125222650.aspx * 7fbd4d4f8672d6399176a4f0d49545e8
+Nightrunner.aspx%20.txt * 4b646e7958e1bb00924b8e6598fe6670
+wooyun2015052301.aspx * f5792e3378476840d3e35cb544ac4b27
+lpl38-com-aspx.txt * 853d91aa5a833db0c24837477b0a1ad0
+editor.aspx * 0152de452f92423829e041af2d783e3f
+abcd.aspx * 3822615c4ec86e54f33241f15a50842b
+icesword.aspx * a044b2459dab4e7240cb7703c98c6d91
+README.md * 22745f1fab6a8ba1f0285b0098e67d57
+nishang.psm1 * e62bf477db508550689fdcb1ad4def92
+CHANGELOG.txt * 0611067c217b78d673928e4533b61b01
+.gitattributes * c4f364b364a2ac980a1dbf9d9a73a0e1
+.gitignore * 7b091948ebf89bbd1832c363d49ede3c
+Enable-DuplicateToken.ps1 * a6d7f892b7e88c815990b6e6f8db8a73
+Remove-Update.ps1 * 22bbc3b22ab8dc0526e345cf9d596c5e
+Readme.md * 2badc51f521b1e4b97fb3689e150a73e
+antak.aspx * 655a6fe19eec02b54333a2c8d95cf56f
+Download_Execute.ps1 * 1159ee12ea4d3eeeab22c14bbd095739
+Execute-DNSTXT-Code.ps1 * 4a0f2193c7eb55076693f5cbc586d3c9
+Execute-Command-MSSQL.ps1 * 4c9e8db116aa6d9e1a4d14319a625027
+Download-Execute-PS.ps1 * ee2ca818e56d73a86c3b32c9fdad58c6
+Create-MultipleSessions.ps1 * 7bb3f943675f128cdc1eb5d2503661a6
+Run-EXEonRemote.ps1 * 35bef2688a1613c9ab279cde529cce87
+Credentials.ps1 * 188b8dbcec58c4538ac1e5246f2fae1c
+Copy-VSS.ps1 * a18032c36d8ca51ab5fbdb0b566062ae
+Get-WLAN-Keys.ps1 * 0eea8fa781b23d01efb2d6b155fe5b22
+Get-LSASecret.ps1 * 1bad74fcb0fe2aaf09a2b33ae67acd8c
+Get-Information.ps1 * 0edefdfb4376bb3198ed49cf15a06a41
+FireListener.ps1 * b346686bb44573c10da45c181b60cde5
+Check-VM.ps1 * eae8ef4862c08bd3decb1606fc545391
+Keylogger.ps1 * 4cf4006e89ad17486fc1195aa77bbec3
+FireBuster.ps1 * 0cfdb14196d6220007c155c9a601c17d
+Get-PassHashes.ps1 * 80803c43e201ea7ef8462abccb57c7c3
+Base64ToString.ps1 * 1c823370cec8fa9567cdbcd357becf91
+Parse_Keys.ps1 * 459c6fe9390036b1305aa8c8bd1ebe71
+Invoke-Decode.ps1 * 652580a9d627d8f112afc87738fff427
+Add-Exfiltration.ps1 * 2780354fff052d13c64d8244d4b831da
+StringToBase64.ps1 * ffd2cd3616b4122ccadf17c0a7352894
+Add-Persistence.ps1 * 96c9dff8db9157ce6c14dfe20ff0e0fe
+ExetoText.ps1 * 84a2c1289dfab6ad49f7ee6566582e85
+TexttoExe.ps1 * 30064e29dd586a19cfa30a0ec676338b
+Invoke-Encode.ps1 * 5009a9745a092b2e18f34b16e991070f
+Do-Exfiltration.ps1 * 53e96461e16c9008c9b0bab55d09f08c
+Remove-Persistence.ps1 * aa3e725b6a21b401701856242894c05a
+Download.ps1 * 9127ed7cb32b3d2b8fc84b014be5c9d8
+Execute-OnTime.ps1 * 736bb469fd55afdcebb6747d23aa9735
+HTTP-Backdoor.ps1 * 9e6e0b9e1224b2d1a6fc7f0ece0ddf00
+DNS_TXT_Pwnage.ps1 * 6846f85ccd21b06171903a8662b980a8
+Nishang_logo_small.png * 742cb9a6acc93d35fa3953ac142b0fb2
+Nishang_Logo.png * 5a087ec145bfadf3207e2cad4e333d55
+Speak.ps1 * 3fd0034563b633fb2f4fc1c151001954
+README.md * c0628e6df32503555c23cc8c1c94baf5
+Powerpreter.psm1 * b0b040009923d4990c222033bd105a0a
+Prasadhak.ps1 * 93541fbe6bb93243a696a0dcad347d00
+Brute-Force.ps1 * eaa9dc3932519a4fc86bfadd720c3cc9
+Port-Scan.ps1 * c63bdaa88f381ce870ddcd6b70a257d4
+httpModules.md * c5bfe6ac6ede66579a71574cba8e15ae
+readme.md * 5e5ea0b4754a0b61817fc384e7e3e3df
+httpHandlers.md * 242c1dee6e4cc4bb01628ea083560768
+Customize.cs * 58952c2c98557115752635876e34e1e8
+global.asax * f274a492bbfe31c93d049b37b21faab0
+filesystembrowser.aspx * fa0366e2cf46df761be83685b39f59b9
+cmdexec.aspx * 67af0bc97b3ea18025a88a0b0201c18d
+spexec.aspx * 3a4665cbdd9f364f29feee19eac0967c
+sql.aspx * 3125bf04153259891bf64e9ceaa95769
+ChangeLog.txt * 302a16f5fe9f2ad1b25d11c49de8b854
+fileupload.aspx * f6591c1ab7f7b782c386af1b6c2c0e9b
+w02.asp * 2d9c03e340c461ce43f21621bf485061
+ice.aspx * 27774a1572922f5a1336493694b1f8aa
+README.md * 303fb0ef45e5b03154e2a82cc125b50c
+aspx.jpg * 9772b29bd85e9c4e6b36593582a7e15e
+php.jpg * 076c6d0f8e339e5c18813c855fea8164
+hkmjj.asp * e7b994fe9f878154ca18b7cde91ad2d0
+guo.php * 9e69a8f499c660ee0b4796af14dc08f0
+qun01.php * d771409e152d0fabae45ea192076d45e
+redirect.asp * 97da83c6e3efbba98df270cc70beb8f8
+w02.php * 5d8447e68647578c7c15bbca1ab9682d
+short_shell.md * 9c78033a6457ae118147460c30deeac7
+ice.cfm * c85dc4af9bc4c57f97b89dde9a3f73c8
+guest.jsp * b26f1c47d7c70c1608a88454bda3834a
+ice.jsp * 49040c9476a26e5f861b661242f99d55
+w01.asp * 2d2435cde154d62387e593947d72a2ca
+w02.jsp * 71b664c7e5e1b3296c9499a16c921e93
+w03.asp * 3822615c4ec86e54f33241f15a50842b
+ice.php * 1d6335247f58e0a5b03e17977888f5f2
+w-ob_start02.php * f21b30eac54b1403b4ccdc4f0d72785d
+p.php * 769a354464d8e9d69038eca3d8c2f96c
+w.jspx * 6d4a5687e9772d2a9120cb7eafcd53bb
+x.php * 7e5e2fc5fad83f88fd2ab5cb41a1ea5d
+fuck.php * ee94952dc53d9a29bdf4ece54c7a7aa7
+3802.php * b2831844bddf3a0ca87d6cbbaf06ceef
+w.jsp * 6a59c0c267887e2ae34aefcf4e11a848
+w.php * ce6a53536ea70c8586f73d44cfa942cd
+customize.ashx * d0f9d27c2ad59d9dac1faf829548592c
+m7lrv01.php * 3ccf9cb0f5be502de520558640662724
+customize.asmx * 5ec95be50df72afed7233387beef0501
+a.asp * 301b11ab76384f58fa1acea8388dcdeb
+404.php * ee94952dc53d9a29bdf4ece54c7a7aa7
+w01.php * c9a14308c91eb6201a9b31bfaac0966d
+w03.jsp * 145324c6d04d75662eb93789b3cdcdd2
+cutstomize.asp * 5f40274f1a8915dfdc7d7001bc52a464
+w_2016-05-25.php * 103accb9425879d06b9d57d0e36e01af
+sqzr.php * 5fb6f5ded8f41cf7f1b8c078b4ba6023
+mdb.asp * fbf3847acef4844f3a0d04230f6b9ff9
+z-2016-01-05.php * e8b1b62f0b315303a4ae52f8eca4a334
+ice.asp * 6560b436d3d3bb75e2ef3f032151d139
+Customize.soap * 7bb28a9e81afbf2c6c5badcac36fa133
+ice.jpg * 3921d444a251661662f991b147e22bc3
+bypass01.php * 3b361e469cfca8559bd26b42406f8df9
+tie01.asp * 29df1db33665f835475466d395cd0041
+w-ob_start01.php * 64ad1bc2f558b920ea037ad4cc0a3b05
+README.md * b76582e58e9dc7eb968fbb0ebd69c770
+phpspy2011.ccc * 5dada33315bba969aec6a4d9cb6f4d41
+icesword.war * ee27082018acc805ba6ee83a750bbc6a
+README.md * 38456a1ad8811daf455b491e2aee63fe
+small_shell.txt * a04375b488808da5a913a49d0098436f
+ololo.cfm * a39fcca23633ad146c37c376f74fc39b
+sshback-v0.1.tar.gz * 7a984afab2969ed68026a0372f0240fc
+zs.war * b3ee9807df3e040d764a3bc795e01d5b
+webshell-pwd.txt * 146542eb0637423f5450a600234674ae
+pwd.txt * 1732e9ab8120b6ee6fb25745e0fc076e
+bypass_waf.txt * f217b64ba2f597f87a4995551b704fc4
+README.md * c202af9335f23bf8aeab030e46c2e7d9
+Utils.java * d83dec455c56d2bcb5f7f43a37abf0bf
+config.aar * cff16c8bef6aa9b54501aecae7633e86
+ACat.jar * 531a3b446ca33c09081a52e34394ba4d
+ACat_jdk1.5.jar * 22c32fe24e7f66ce0af3e993a9060021
+readme.md * d6ad9401847c165c24bfb97fe145b908
+ACat-src.zip * 1fa0d60e523f24945399d7107e7587df
+readme.MD * 0fef212f714e911c256d6d9c591df325
+test.ear * 1ba490f2a6207562f24a33b54eb2652d
+test.war * f9511cfb50551be917da096ef760379c
+Readme.md * 1c82be235dddcf543ba9b3103dd0a191
+readme.md * f8115747b8dbe130e3b26c64bb491bdf
+README.md * e6637f1243d013f16faa236c6ff981e1
+backdoor1.txt * e1adda1f866367f52de001257b4d6c98
+Blind Shell.cpp.txt * a24f1971be985522d77b652f8b377e2f
+backdoorfr.txt * 91e4afc7444ed258640e85bcaf0fecfc
+backupsql.txt * ab1a06ab1a1fe94e3f3b7f80eedbc12f
+backupsql.php.txt * ab1a06ab1a1fe94e3f3b7f80eedbc12f
+backup.php.txt * aeee3bae226ad57baf4be8745c3f6094
+Ayyildiz Tim  -AYT- Shell v 2.1 Biz.txt * 8a8c8bb153bd1ee097559041f2e5cf0a
+aZRaiLPhp v1.0.txt * 26b2d3943395682e36da06ed493a3715
+Ajan.asp.txt * b6f468252407efc2318639da22b08af0
+Ajax_PHP Command Shell.txt * 93d1a2e13a3368a2472043bd6331afe9
+Antichat Shell v1.3.txt * 40d0abceba125868be7f3f990f031521
+Asmodeus v0.1.pl.txt * 0978b672db0657103c79505df69cb4bb
+accept_language.txt * 50635cfab8b52190a732af2f18d8f7cc
+Uploader.php.txt * 0b53b67bb3b004a8681e1458dd1895d0
+Dx.txt * 9cfe372d49fe8bf2fac8e1c534153d9b
+DxShell_hk.php.txt * 8705c4495a9fd1811f31e2507f93e63e
+Dive Shell 1.0 - Emperor Hacking Team.txt * 1b5102bdc41a7bc439eea8f0010310a5
+dC3 Security Crew Shell PRiV.txt * 433706fdc539238803fd47c4394b5109
+DTool Pro.txt * 366ad973a3f327dfbfb915b0faaea5a6
+Dx.php.txt * 9cfe372d49fe8bf2fac8e1c534153d9b
+Fatalshell.php.txt * b15583f4eaad10a25ef53ab451a4a26d
+fuckphpshell.txt * 554e50c1265bb0934fcc8247ec3b9052
+lurm_safemod_on.cgi.txt * 5ea4f901ce1abdf20870c214b3231db3
+lamashell.txt * de9abc2e38420cad729648e93dfc6687
+load_shell.txt * de0b7923a98c1e6a750222c2b5d5738d
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.txt * c6eeacbe779518ea78b8f7ed5f63fc11
+load_shell.php.txt * de0b7923a98c1e6a750222c2b5d5738d
+xinfo.php.txt * 2601b6fc1579f263d2f3960ce775df70
+ctt_sh.php.txt * 671cad517edd254352fe7e0c7c981c39
+Crystal.txt * fdbf54d5bf3264eb1c4bff1fac548879
+c99.txt * 7a3cc460306cbf50b4f230884624acb0
+cybershell.txt * ef8828e0bc0641a655de3932199c0527
+c99(1).php.txt * 9e9ae0332ada9c3797d6cee92c2ede62
+cgi-python.py.txt * 0a15f473e2232b89dae1075e1afdac97
+c2007.php.txt * d089e7168373a0634e1ac18c0ee00085
+ctt_sh.txt * 671cad517edd254352fe7e0c7c981c39
+Casus15.php.txt * 5e2ede2d1c4fa1fcc3cbfe0c005d7b13
+connectback2.pl.txt * 473b7d226ea6ebaacc24504bd740822e
+CmdAsp.asp.txt * 64f24f09ec6efaa904e2492dffc518b9
+c100.txt * 38fd7e45f9c11a37463c3ded1c76af4c
+CyberSpy5.Asp.txt * db623540849a49867f5ed8a35ade8828
+CMD.asp.txt * 97af88b478422067f23b001dd06d56a9
+cybershell.php.txt * ef8828e0bc0641a655de3932199c0527
+h4ntu shell [powered by tsoi].txt * 06ed0b2398f8096f1bebf092d0526137
+network.php.txt * acdbba993a5a4186fd864c5e4ea0ba4f
+NT Addy.asp.txt * 2e0d1bae844c9a8e6e351297d77a1fec
+nshell.php.txt * 4a44d82da21438e32d4f514ab35c26b6
+NIX REMOTE WEB-SHELL v.0.5 alpha Lite Public Version.txt * f3ca29b7999643507081caab926e2e74
+Nshell (1).php.txt * 973fc89694097a41e684b43a21b1b099
+ntdaddy.asp.txt * 2e0d1bae844c9a8e6e351297d77a1fec
+NetworkFileManagerPHP.txt * acdbba993a5a4186fd864c5e4ea0ba4f
+nstview.php.txt * 4745d510fed4378e4b1730f56f25e569
+NCC-Shell.txt * 77970bda2a9061e9f48385ea6cca0699
+SimShell 1.0 - Simorgh Security MGZ.txt * 37cb1db26b1b0161a4bf678a6b4565bd
+Server Variables.asp.txt * 47fb8a647e441488b30f92b4d39003d7
+simple_cmd.txt * c6381412df74dbf3bcd5a2b31522b544
+shell.php.txt * 1a95f0163b6dea771da1694de13a3d8d
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.txt * 49ad9117c96419c35987aaa7e2230f63
+SnIpEr_SA Shell.txt * 911195a9b7c010f61b66439d9048f400
+smtpd.py.txt * 4390ff6c8b614a05ae53c673c2c4bd66
+s.php.txt * 817671e1bdc85e04cc3440bbd9288800
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.txt * 6163b30600f1e80d2bb5afaa753490b6
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.txt * 089ff24d978aeff2b4b2869f0c7d38a3
+shellbot.pl.txt * b2a883bc3c03a35cfd020dd2ace4bab8
+Sincap.php.txt * b68b90ff6012a103e57d141ed38a7ee9
+spy.php.txt * eed14de3907c9aa2550d95550d1a2d5f
+sql.php.txt * d42aec2891214cace99b3eb9f3e21a63
+s72 Shell v1.1 Coding.txt * c2e8346a5515c81797af36e7e4a3828e
+simple-backdoor.txt * f091d1b9274c881f8e41b2f96e6b9936
+JspWebshell 1.2.txt * 70a0ee2624e5bbe5525ccadc467519f6
+Java Shell.js.txt * 36403bc776eb12e8b7cc0eb47c8aac83
+Klasvayv.asp.txt * 2b3e64bf8462fc3d008a3d1012da64ef
+KAdot Universal Shell v0.1.6.html.txt * 527cf81f9272919bf872007e21c4bdda
+ironshell.txt * 8bfa2eeb8a3ff6afc619258e39fded56
+iMHaPFtp.txt * 12911b73bc6a5d313b494102abcf5c57
+img.php.txt * 17a07bb84e137b8aa60f87cd6bfab748
+Inderxer.asp.txt * 9ea82afb8c7070817d4cdf686abe0300
+indexer.asp.txt * 9ea82afb8c7070817d4cdf686abe0300
+iMHaPFtp.php.txt * 12911b73bc6a5d313b494102abcf5c57
+Zehir 4.asp.txt * 7f4e12e159360743ec016273c3b9108c
+zacosmall.txt * 5295ee8dc2f5fd416be442548d68f7a6
+zacosmall.php.txt * 5295ee8dc2f5fd416be442548d68f7a6
+zehir4.asp.txt * 7f4e12e159360743ec016273c3b9108c
+phpshell17.txt * 9a928d741d12ea08a624ee9ed5a8c39d
+pws.txt * ecdc6c20f62f99fa265ec9257b7bf2ce
+ru24_post_sh.txt * 5b334d494564393f419af745dc1eeec7
+PHANTASMA.txt * 52779a27fa377ae404761a7ce76a5da7
+PH Vayv.php.txt * 35fb37f3c806718545d97c6559abd262
+PHPRemoteView.txt * 29420106d9a81553ef0d1ca72b9934d9
+phpbackdoor15.txt * 0fdb401a49fc2e481e3dfd697078334b
+perlbot.pl.txt * 7e4deb9884ffffa5d82c22f8dc533a45
+phpjackal.txt * ab230817bcc99acb9bdc0ec6d264d76f
+pws.php.txt * ecdc6c20f62f99fa265ec9257b7bf2ce
+Phyton Shell.py.txt * 92b3c897090867c65cc169ab037a0f55
+php-include-w-shell.txt * 4e913f159e33867be729631a7ca46850
+Private-i3lue.txt * 13f5c7a035ecce5f9f380967cf9d4e92
+phvayv.php.txt * 35fb37f3c806718545d97c6559abd262
+php-backdoor.txt * 2b5cb105c4ea9b5ebc64705b4bd86bf7
+PHP Backdoor Connect.pl.txt * 57fcd9560dac244aeaf95fd606621900
+pHpINJ.php.txt * d7a4b0df45d34888d5a09f745e85733f
+PHP Shell.php.txt * a2f8fa4cce578fc9c06f8e674b9e63fd
+w.php.txt * 38a3f9f2aa47c2e940695f3dba6a7bb2
+WinX Shell.txt * 17ab5086aef89d4951fe9b7c7a561dda
+Worse Linux Shell.txt * 8338c8d9eab10bd38a7116eb534b5fa2
+WebShell.cgi.txt * bc486c2e00b5fc3e4e783557a2441e6f
+wacking.php.txt * 9c5bb5e3a46ec28039e8986324e42792
+webshell.txt * e425241b928e992bde43dd65180a4894
+w3d.php.txt * 987f66b29bfb209a0b4f097f84f57c3b
+w4k.php.txt * 9c5bb5e3a46ec28039e8986324e42792
+myshell.php.txt * d4c247204240d67ddd6e8e7502b711a7
+mysql_shell.txt * d42aec2891214cace99b3eb9f3e21a63
+mysql_tool.php.txt * 5fbe4d8edeb2769eda5f4add9bab901e
+mailer3.php.txt * d1b7b311a7ffffebf51437d7cd97dc65
+mysql.php.txt * 12bbdf6ef403720442a47a3cc730d034
+Mysql interface v1.0.txt * a12fc0a3d31e2f89727b9678148cd487
+matamu.txt * 1a95f0163b6dea771da1694de13a3d8d
+Moroccan Spamers Ma-EditioN By GhOsT.txt * d1b7b311a7ffffebf51437d7cd97dc65
+MySQL Web Interface Version 0.8.txt * 36d4f34d0a22080f47bb1cb94107c60f
+Tool.asp.txt * 8febea6ca6051ae5e2ad4c78f4b9c1f2
+telnetd.pl.txt * 5f61136afd17eb025109304bd8d6d414
+telnet.pl.txt * dd9dba14383064e219e29396e242c1ec
+Test.php.txt * 77e331abd03b6915c6c6c7fe999fcb50
+telnet.cgi.txt * dee697481383052980c20c48de1598d1
+Rader.asp.txt * ad1a362e0a24c4475335e3e891a01731
+r57 Shell.php.txt * 221f1c54e9d371de89c88e494f6d7af5
+Russian.php.txt * 81c3a3c3099d441079382d3729161b80
+r577.php.txt * 0714f80f35c1fddef1f8938b8d42a4c8
+rootshell.txt * 265f3319075536030e59ba2f9ef3eac6
+r57.php.txt * eddf7a8fde1e50a7f2a817ef7cece24f
+Rem View.php.txt * 29420106d9a81553ef0d1ca72b9934d9
+ru24_post_sh.php.txt * 5b334d494564393f419af745dc1eeec7
+Rem Exp.asp.txt * aa1d8491f4e2894dbdb91eec1abc2244
+gfs_sh.txt * a2516ac6ee41a7cf931cbaef1134a9e4
+GFS web-shell ver 3.1.7 - PRiV8.txt * be0f67f3e995517d18859ed57b4b4389
+gfs_sh.php.txt * a2516ac6ee41a7cf931cbaef1134a9e4
+Elmali Seker.asp.txt * b32d1730d23a660fd6aa8e60c3dc549f
+EFSO_2.asp.txt * b5fde9682fd63415ae211d53c6bfaa4d
+elmaliseker.asp.txt * b32d1730d23a660fd6aa8e60c3dc549f
+devshell.asp * 32c6010db740317baea4654124f46242
+devshell.cfm * 2afcd9137d9e45305224785a9e3e40de
+devshell.jsp * 816d7a00ae40ae6d84f9223af2c02f17
+devshell.cgi * 593281eb34a2317ab87541b235cbc6eb
+devshell.aspx * 7981f1bf9b8e5f4691e4ac440f1ba251
+readme.md * d341bc005c0836cc7d949fd59106f3a3
+devshell.php * d9c087b9afef970361fe61ae918d1388
+devilzShell.jsp * 816d7a00ae40ae6d84f9223af2c02f17
+devilzShell.aspx * 7981f1bf9b8e5f4691e4ac440f1ba251
+devilzShell.asp * e04549b7e57e5048465c6d3a36bec903
+devilzShell.php * 02e8597a4ddade7b69f6fa546ebfe170
+devilzShell.cgi * 5ad6a3da93330359cb1292e9d289b7cc

@@ -1,0 +1,27 @@
+passthruexec evalshell_exec str_rot13 system phpinfo chmod mkdir fopen 
+fclose readfile php system gzinflate base64_decode /etc/passwd 
+/etc/shadow proc/version etc/issue.net /tmp/ gcc lcc cc ld make php perl
+python ruby tar gzip bzip bzip2 nc locate suidper kav nod32 bdcored 
+uvscan sav drwebd clamd rkhunter chkrootkit iptables ipfw tripwire 
+shieldcc portsentry snort ossec lidsadm tcplodg sxid logcheck logwatch 
+sysmask zmbscap sawmill wormscan ninja wget fetch lynx links curl 
+get lwp-mirror Shell.php pcntl assert passthru shell_exec exec edoced_46esab
+eval system proc_open popen curl_exec php_uname tcpflood udpflood 
+curl_multi_exec parse_ini_file gzinflate show_source phpinfo readfile 
+fclosefopen mkdir gzip python_exec str_rot13 chmod cmd whoami 
+preg_replace pcntl_exec gzdeflate hexdec  Settings Account 
+preg_replace code.value path tar.gz binhex hex2bin decbin hexdec 
+dechex bindec hex2ascii ascii2hex Hexdump Touch
+urlencode fileperms addcslashes BruteForce fopen HTTP_USER_AGENT 
+HTTP_ACCEPT_LANGUAGE strrev md5 cvsrevsate destroy pass unsafe RealPath
+uname error_log log_errors setcookie auth_pass disable_functions 
+function_exists posix_get Disable locate admin.php httpd.conf vhosts.conf
+proftpd.conf psybnc.conf my.conf admin.php cfg.php conf.php config.dat
+config.php config.inc config.inc.php .conf .pwd .sql .htpasswd bash_history
+.mysql_history .fetchmailrc backup dump priv 
+angel b374k bv7binary c99 c100 r57 webroot kacak symlink h4cker webadmin
+gazashell locus7shell syrianshell injection cyberwarrior ernebypass
+g6shell pouyaserver saudishell simattacker sosyeteshell tryagshell
+uploadshell wsoshell weevely zehir4shell lostdcshell commandshell
+mailershell cwshell iranshell indishell g6sshell sqlshell simshell
+tryagshell zehirshell unknown k2ll33d b1n4ry

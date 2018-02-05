@@ -1,0 +1,45 @@
+<html>
+<head>
+    <style type="text/css">
+	html, body {
+    		height:100%;
+    		width:100%;
+    		margin:0;
+    		padding:0;
+	}
+	.container{
+		width:100%;
+	}
+
+	.container h5 , h4{
+		display: inline;
+		color: green;
+	}
+
+	.container h2 , h3{
+		display: inline;
+		color: red;
+	}
+    </style>
+	<title>Files</title>
+</head>
+<body>
+	<tmpl_loop name=filelist>
+   		<div class="file">
+   		<div class="file" style=" background-color:#000000; layer-background-color:#003366; visibility: visible" >
+     			<fieldset>
+       				<legend><h3><tmpl_var name="ruta"></h3></legend>
+       				<legend><h4>Propietario:<tmpl_var name="propietario"></h4></legend>
+       				<legend><h4>Calificacion:<tmpl_var name="calificacion"></h4></legend>
+       				<legend><h4>Permisos:<tmpl_var name="permisos"></h4></legend>
+       				<legend><h4>Tamanio:(Bytes)<tmpl_var name="tamanio"></h4></legend>
+       				<legend><h4>Cambio Inodo:<tmpl_var name="cInodo"></h4></legend>
+       				<legend><h4>Modifcado: <tmpl_var name="modificado"></h4></legend>
+       				<legend><h4>Ultimo Acceso:<tmpl_var name="ultimo"></h4></legend>
+       				<legend></h4>Hash: <tmpl_var name="hash"></h4></legend>
+    			</fieldset>
+  		</div>
+	</tmpl_loop>
+</body>
+</html>
+	
